@@ -1,0 +1,297 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+BG Version
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+<p dir="ltr">В TonerStream предлагаме експертни услуги, които осигуряват надеждна работа на вашата офис техника &ndash;
+	от ремонт на принтери и подновяване на части, до качествено обслужване на тонер касети и специализирани решения за
+	принтиране и копиране. Работим с опитни техници и специалисти, които гарантират бърза реакция, прецизна диагностика,
+	правилна инсталация и цялостна поддръжка.</p>
+
+<p dir="ltr">Ако търсите не просто услуга, а дългосрочно решение за безпроблемна работа, при нас ще откриете всичко
+	необходимо на едно място. С всяка заявка получавате консултация, персонализиран подход и достъп до сервиз с доказано
+	качество.</p>
+
+<h2 dir="ltr">Какви услуги предлагаме в TonerStream?</h2>
+
+<p dir="ltr">Нашите услуги са разработени така, че да добавят реална стойност към всеки закупен продукт. Ето какво може
+	да очаквате:</p>
+
+<ul>
+	<li dir="ltr">
+		<h3 dir="ltr"><img alt="" src="https://www.tonersupport.com/files_directory/root/ckeditor/images/water-rate-two.209x256.png" style="height:25px; width:21px" />&nbsp;<a href="/bg/prezarejdane">Зареждане на тонер касети</a></h3>
+
+		<p>
+			Извършваме зареждане на оригинални и съвместими тонер касети, с висококачествени консумативи, които
+			осигуряват наситен печат, без повреди и без разтичане. Работим с тонери с висока устойчивост, които
+			позволяват голям брой копия без загуба в плътността на цвета. Услугата е подходяща за всички стандартни
+			модели принтери и МФУ, като включва и проверка на състоянието на касетата преди зареждане.
+		</p>
+	</li>
+	<li dir="ltr">
+		<h3 dir="ltr"><a href="/bg/striymirane"><img alt="" src="https://www.tonersupport.com/files_directory/root/ckeditor/images/recycle.256x249.png" style="height:24px; width:25px" />&nbsp;Стриймиране и рециклиране на касети</a></h3>
+
+		<p>
+			Прилагаме иновативна технология за стриймиране, която позволява поддръжка и подновяване на изразходвани
+			тонер касети. Това не само намалява отпадъка и въглеродния отпечатък, но също така удължава живота на
+			консумативите ви. Ресурсоефективно, икономично и отговорно решение &ndash; особено подходящо за фирми с
+			висок обем на печат.
+		</p>
+	</li>
+	<li dir="ltr">
+		<h3 dir="ltr"><img alt="" src="https://www.tonersupport.com/files_directory/root/ckeditor/images/print.256x243.png" style="height:24px; width:25px" />&nbsp;<a href="/bg/printirane-i-kopirane">Принтиране и копиране с професионална техника</a></h3>
+
+		<p>
+			За клиенти, които се нуждаят от готови документи &ndash; предоставяме висококачествено черно-бяло и цветно
+			принтиране и копиране. Независимо дали става дума за курсови работи, фирмени отчети, маркетинг материали,
+			или всекидневна документация &ndash; гарантираме бърза изработка и отлично съотношение между цена и
+			качество. Използваме устройства от последно поколение, които осигуряват прецизен печат и надеждност при
+			високи натоварвания.
+		</p>
+	</li>
+	<li dir="ltr">
+		<h3 dir="ltr"><img alt="" src="https://www.tonersupport.com/files_directory/root/ckeditor/images/hammer-and-wrench.256x243.png" style="height:24px; width:25px" />&nbsp;<a href="/bg/serviz">Ремонт на принтери и многофункционални устройства</a></h3>
+
+		<p>
+			Предлагаме експресен ремонт и пълна диагностика на принтери и многофункционални устройства &ndash; както на
+			място при клиента, така и в нашия сервиз. Всеки случай се разглежда индивидуално от опитен специалист, който
+			извършва тестове, открива износени компоненти и предлага точната инсталация на резервни части. Поддръжката
+			не спира с ремонта &ndash; ще получите и съвети за оптимална работа в бъдеще.
+		</p>
+	</li>
+</ul>
+
+<p dir="ltr">С TonerStream получавате услуга, която оптимизира работата ви, намалява оперативните разходи и удължава
+	живота на вашата техника.</p>
+
+<p>&nbsp;</p>
+
+<h3 style="text-align:center">
+	<a href="/bg/kontakti"
+		onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=yes,scrollbars=no,dependent=no'); return false;">
+		<input name="Изпратете запитване" type="button" value="Изпратете запитване"
+			style="background-color:#CB1219; color:#FFFFFF; border:none; padding:12px 24px; cursor:pointer; font-weight:bold; border-radius:8px; transition: background-color 0.3s ease;"
+			onmouseover="this.style.backgroundColor='#FF0000';" onmouseout="this.style.backgroundColor='#cc0000';" />
+	</a>
+</h3>
+
+<p>&nbsp;</p>
+
+<h2 dir="ltr">Защо да се доверите на TonerStream?</h2>
+
+<p dir="ltr">Изборът на партньор за поддръжка на офис техника не е просто въпрос на цена &ndash; става дума за
+	сигурност, бързина и устойчиви резултати. В TonerStream предлагаме не просто услуги, а реални решения, които
+	елиминират проблемите още в зародиш и спестяват време, усилия и средства. Какво ни отличава?</p>
+
+<ul>
+	<li dir="ltr">
+		<h3 dir="ltr"><img alt="" src="https://www.tonersupport.com/files_directory/root/ckeditor/images/quality-4.243x256.png" style="height:25px; width:24px" />&nbsp;Над 10 години опит, базиран на доверие и професионализъм</h3>
+		<p>
+			Работим с клиенти от различни сектори &ndash; от корпоративни офиси до индивидуални потребители. Нашият екип
+			от сертифицирани техници и консултанти има дългогодишна практика в диагностиката, ремонта и поддръжката на
+			принтери, многофункционални устройства и тонер касети.</p>
+	</li>
+	<li dir="ltr">
+		<h3 dir="ltr"><img alt="" src="https://www.tonersupport.com/files_directory/root/ckeditor/images/rocket.255x256.png" style="height:25px; width:25px" />&nbsp;Бърза реакция и гъвкави услуги</h3>
+		<p>
+			Без значение дали имате нужда от ремонт, инсталация, зареждане, или диагностика, реагираме в най-кратки
+			срокове &ndash; както на място, така и в нашия сервиз. Разполагаме с мобилни екипи и собствен транспорт,
+			което ни позволява да обслужваме клиенти в цялата страна с максимална ефективност.</p>
+	</li>
+	<li dir="ltr">
+		<h3 dir="ltr"><img alt="" src="https://www.tonersupport.com/files_directory/root/ckeditor/images/direct-hit.256x256.png" style="height:25px; width:25px" />&nbsp;Всичко необходимо &ndash; от един адрес</h3>
+		<p>
+			Спестете време, като получите всичко на едно място &ndash; доставка на консумативи, поддръжка, консултация,
+			стриймиране, рециклиране и отпечатване на документи. Не е нужно да координирате с различни доставчици
+			&ndash; предоставяме ви всичко необходимо за вашето оборудване, от началото до края.</p>
+	</li>
+	<li dir="ltr">
+		<h3 dir="ltr"><img alt="" src="https://www.tonersupport.com/files_directory/root/ckeditor/images/customer-service-agent-bold.255x256.png" style="height:25px; width:25px" />&nbsp;Персонализиран подход към всеки клиент</h3>
+		<p>
+			При нас всяка услуга започва с консултация, в която изясняваме конкретните нужди. Изготвяме индивидуални
+			решения, които отговарят точно на изискванията ви &ndash; без скрити такси и излишни услуги.</p>
+	</li>
+	<li dir="ltr">
+		<h3 dir="ltr"><img alt="" src="https://www.tonersupport.com/files_directory/root/ckeditor/images/high-quality.256x256.png" style="height:25px; width:25px" />&nbsp;Доказано качество на всяка услуга</h3>
+		<p>
+			Всяка заявка преминава през вътрешна проверка за качество. Работим със сертифицирани консумативи и
+			съвременна техника, а всички услуги &ndash; от зареждане до ремонт &ndash; са с включена гаранция. Вашата
+			техника е в сигурни ръце.</p>
+	</li>
+	<li dir="ltr">
+		<h3 dir="ltr"><img alt="" src="https://www.tonersupport.com/files_directory/root/ckeditor/images/environmental.256x256.png" style="height:25px; width:25px" />&nbsp;Устойчиви и екологични решения</h3>
+		<p>
+			С програмата ни за рециклиране и стриймиране намалявате отпадъците и разходите си, без да правите компромис
+			с качеството. Това е отговорен избор, който подкрепя не само вашия бюджет, но и околната среда.</p>
+	</li>
+</ul>
+
+<p dir="ltr">TonerStream е изборът, когато търсите надежден партньор, който мисли в перспектива. С нас техниката ви ще
+	работи по-дълго, по-добре и по-изгодно &ndash; с минимум усилия от ваша страна.</p>
+
+<p dir="ltr">Готови ли сте да се възползвате от нашите услуги? Свържете се с нас за безплатна консултация или заявка.
+</p>
+
+<p>&nbsp;</p>
+
+<h3 style="text-align:center">
+	<a href="/bg/kontakti"
+		onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=yes,scrollbars=no,dependent=no'); return false;">
+		<input name="Свържете се с нас" type="button" value="Свържете се с нас"
+			style="background-color:#CB1219; color:#FFFFFF; border:none; padding:12px 24px; cursor:pointer; font-weight:bold; border-radius:8px; transition: background-color 0.3s ease;"
+			onmouseover="this.style.backgroundColor='#FF0000';" onmouseout="this.style.backgroundColor='#cc0000';" />
+	</a>
+</h3>
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+EN Version
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+<p dir="ltr">At TonerStream, we offer expert services that ensure the reliable performance of your office equipment
+	&ndash; from printer repairs and parts replacement to quality toner cartridge servicing and specialized printing and
+	copying solutions. We work with experienced technicians and specialists who guarantee fast response, precise
+	diagnostics, proper installation, and comprehensive maintenance.</p>
+
+<p dir="ltr">If you&rsquo;re looking not just for a service, but a long-term solution for seamless performance,
+	you&rsquo;ll find everything you need in one place with us. Each request comes with a consultation, personalized
+	approach, and access to a service center with proven quality.</p>
+
+<h2 dir="ltr">What services do we offer at TonerStream?</h2>
+
+<p dir="ltr">Our services are designed to add real value to every purchased product. Here&rsquo;s what you can expect:
+</p>
+
+<ul>
+	<li dir="ltr">
+		<h3 dir="ltr"><img alt="" src="https://www.tonersupport.com/files_directory/root/ckeditor/images/water-rate-two.209x256.png" style="height:25px; width:20px" />&nbsp;<a href="/en/refilling">Toner Cartridge Refilling</a></h3>
+		<p>
+			We refill original and compatible toner cartridges with high-quality consumables that ensure rich print
+			output without damage or leakage. We use highly durable toner that allows for a large number of copies
+			without loss of color density. The service is suitable for all standard printer and MFP models and includes
+			a cartridge condition check before refilling.
+		</p>
+	</li>
+	<li dir="ltr">
+		<h3 dir="ltr"><img alt="" src="https://www.tonersupport.com/files_directory/root/ckeditor/images/recycle.256x249.png" style="height:24px; width:25px" />&nbsp;<a href="/en/streaming">Cartridge Streaming and Recycling</a></h3>
+		<p>
+			We apply an innovative streaming technology that enables maintenance and renewal of used toner cartridges.
+			This not only reduces waste and carbon footprint but also extends the life of your consumables. A
+			resource-efficient, cost-effective, and responsible solution &ndash; especially suitable for companies with
+			high print volumes.
+		</p>
+	</li>
+	<li dir="ltr">
+		<h3 dir="ltr"><img alt="" src="https://www.tonersupport.com/files_directory/root/ckeditor/images/print.256x243.png" style="height:24px; width:25px" />&nbsp;<a href="/en/printing-and-copying">Professional Printing and Copying</a></h3>
+		<p>
+			For clients who need ready documents &ndash; we provide high-quality black-and-white and color printing and
+			copying. Whether it&#39;s student papers, business reports, marketing materials, or daily documentation
+			&ndash; we guarantee fast production and excellent price-to-quality ratio. We use the latest generation
+			devices that ensure precise printing and reliability under high workloads.
+		</p>
+	</li>
+	<li dir="ltr">
+		<h3 dir="ltr"><a href="/en/service"><img alt="" src="https://www.tonersupport.com/files_directory/root/ckeditor/images/hammer-and-wrench.256x243.png" style="height:24px; width:25px" /> Printer and Multifunction Device Repairs</a></h3>
+		<p>
+			We offer express repairs and full diagnostics of printers and multifunction devices &ndash; both on-site at
+			the client&rsquo;s location and in our service center. Each case is individually reviewed by an experienced
+			specialist who performs tests, identifies worn-out components, and installs the necessary spare parts.
+			Maintenance doesn&rsquo;t stop with the repair &ndash; you&rsquo;ll also receive advice for optimal
+			performance going forward.
+		</p>
+	</li>
+</ul>
+
+<p dir="ltr">With TonerStream, you get a service that optimizes your workflow, reduces operational costs, and extends
+	the life of your equipment.</p>
+
+<p>&nbsp;</p>
+
+<h3 style="text-align:center">
+	<a href="/en/kontakti"
+		onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=yes,scrollbars=no,dependent=no'); return false;">
+		<input name="Send your request" type="button" value="Send your request"
+			style="background-color:#CB1219; color:#FFFFFF; border:none; padding:12px 24px; cursor:pointer; font-weight:bold; border-radius:8px; transition: background-color 0.3s ease;"
+			onmouseover="this.style.backgroundColor='#FF0000';" onmouseout="this.style.backgroundColor='#cc0000';" />
+	</a>
+</h3>
+
+<p>&nbsp;</p>
+
+<h2 dir="ltr">Why trust TonerStream?</h2>
+
+<p dir="ltr">Choosing a partner for office equipment maintenance is not just about price &ndash; it&rsquo;s about
+	reliability, speed, and sustainable results. At TonerStream, we don&rsquo;t just offer services, we provide real
+	solutions that eliminate problems at the root and save you time, effort, and money. What sets us apart?</p>
+
+<ul>
+	<li dir="ltr">
+		<h3 dir="ltr"><img alt="" src="https://www.tonersupport.com/files_directory/root/ckeditor/images/quality-4.243x256.png" style="height:25px; width:24px" />&nbsp;Over 10 Years of Experience Based on Trust and Professionalism</h3>
+		<p>
+			We work with clients from various sectors &ndash; from corporate offices to individual users. Our team of
+			certified technicians and consultants has extensive experience in diagnostics, repairs, and maintenance of
+			printers, multifunction devices, and toner cartridges.</p>
+	</li>
+	<li dir="ltr">
+		<h3 dir="ltr"><img alt="" src="https://www.tonersupport.com/files_directory/root/ckeditor/images/rocket.255x256.png" style="height:25px; width:25px" />&nbsp;Fast Response and Flexible Services</h3>
+		<p>
+			Whether you need repairs, installation, refilling, or diagnostics, we respond promptly &ndash; both on-site
+			and in our service center. We have mobile teams and our own transport, allowing us to serve clients
+			nationwide with maximum efficiency.</p>
+	</li>
+	<li dir="ltr">
+		<h3 dir="ltr"><img alt="" src="https://www.tonersupport.com/files_directory/root/ckeditor/images/direct-hit.256x256.png" style="height:25px; width:25px" />&nbsp;Everything You Need &ndash; From One Address</h3>
+		<p>
+			Save time by getting everything in one place &ndash; consumables delivery, maintenance, consultation,
+			streaming, recycling, and document printing. No need to coordinate with different providers &ndash; we offer
+			everything your equipment needs from start to finish.</p>
+	</li>
+	<li dir="ltr">
+		<h3 dir="ltr"><img alt="" src="https://www.tonersupport.com/files_directory/root/ckeditor/images/customer-service-agent-bold.255x256.png" style="height:25px; width:25px" />&nbsp;Personalized Approach for Every Client</h3>
+		<p>
+			With us, every service starts with a consultation where we clarify your specific needs. We prepare
+			individual solutions that match your requirements exactly &ndash; with no hidden fees or unnecessary
+			services.</p>
+	</li>
+	<li dir="ltr">
+		<h3 dir="ltr"><img alt="" src="https://www.tonersupport.com/files_directory/root/ckeditor/images/high-quality.256x256.png" style="height:25px; width:25px" />&nbsp;Proven Quality in Every Service</h3>
+		<p>
+			Every request goes through an internal quality check. We work with certified consumables and modern
+			equipment, and all services &ndash; from refilling to repair &ndash; come with a warranty. Your equipment is
+			in safe hands.</p>
+	</li>
+	<li dir="ltr">
+		<h3 dir="ltr"><img alt="" src="https://www.tonersupport.com/files_directory/root/ckeditor/images/environmental.256x256.png" style="height:25px; width:25px" />&nbsp;Sustainable and Eco-Friendly Solutions</h3>
+		<p>
+			With our recycling and streaming program, you reduce waste and costs without compromising on quality.
+			It&rsquo;s a responsible choice that supports not only your budget but also the environment.</p>
+	</li>
+</ul>
+
+<p dir="ltr">TonerStream is the right choice when you&rsquo;re looking for a reliable partner who thinks long-term. With
+	us, your equipment will work longer, better, and more cost-effectively &ndash; with minimal effort on your part.</p>
+
+<p dir="ltr">Are you ready to take advantage of our services? Contact us for a free consultation or request.</p>
+
+<p>&nbsp;</p>
+
+<h3 style="text-align:center">
+	<a href="/en/kontakti"
+		onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=yes,scrollbars=no,dependent=no'); return false;">
+		<input name="Contact us" type="button" value="Contact us"
+			style="background-color:#CB1219; color:#FFFFFF; border:none; padding:12px 24px; cursor:pointer; font-weight:bold; border-radius:8px; transition: background-color 0.3s ease;"
+			onmouseover="this.style.backgroundColor='#FF0000';" onmouseout="this.style.backgroundColor='#cc0000';" />
+	</a>
+</h3>

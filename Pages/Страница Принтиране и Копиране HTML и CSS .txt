@@ -1,0 +1,460 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+BG версия
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+  <meta charset="UTF-8" />
+  <title>Ценова листа</title>
+  <style>
+    table {
+      width: 60%;
+      border-collapse: collapse;
+      margin-bottom: 2rem;
+      font-family: Arial, sans-serif;
+      font-size: 15px;
+    }
+
+    table thead {
+      background-color: #f2f2f2;
+    }
+
+    table th, table td {
+      border: 1px solid #ccc;
+      padding: 15px;
+      text-align: left;
+      vertical-align: middle;
+    }
+
+    table td p, table th p {
+      margin: 0;
+    }
+
+    table th {
+      font-weight: bold;
+    }
+
+    table td:nth-child(2),
+    table td:nth-child(3),
+    table th:nth-child(2),
+    table th:nth-child(3) {
+      text-align: center;
+      width: 170px;
+    }
+
+    table td:first-child,
+    table th:first-child {
+      width: auto;
+    }
+  </style>
+</head>
+<body>
+
+<h2 style="text-align:center">Принтиране и копиране ценова листа</h2>
+
+<p>&nbsp;</p>
+
+<h3>Принтиране и копиране черно-бяло</h3>
+
+<p>Принтиране и копиране черно-бяло на висококачествени и високоскоростни лазерни машини. Винаги безупречен печат, независимо от броя копия. Възможност за печат на голяма гама от медии.</p>
+
+<p><em>*Всички цени са за печат върху 80 гр. хартия.</em></p>
+
+<p><em>*Всички цени са &nbsp;с включено ДДС.</em></p>
+
+<p>&nbsp;</p>
+
+<h3>⭐️ Принтиране / Копиране Черно-бяло едностранно</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th><p><strong>Принтиране / копиране черно-бяло едностранно</strong></p></th>
+      <th><p><strong>А4</strong></p></th>
+      <th><p><strong>А3</strong></p></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><p>✅ Хартия 80гр. - <strong>1-10</strong> бр.</p></td>
+      <td><p><strong>0,24</strong> лв. / <strong>0.12</strong> € /бр.</p></td>
+      <td><p><strong>0,48</strong> лв. / <strong>0.25</strong> € /бр.</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ Хартия 80гр. - <strong>11-50</strong> бр.</p></td>
+      <td><p><strong>0,20</strong> лв. / <strong>0.11</strong> € /бр.</p></td>
+      <td><p><strong>0,40</strong> лв. / <strong>0.21</strong> € /бр.</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ Хартия 80гр. - <strong>51-100</strong> бр.</p></td>
+      <td><p><strong>0,15</strong> лв. / <strong>0.08</strong> € /бр.</p></td>
+      <td><p><strong>0,30</strong> лв. / <strong>0.16</strong> € /бр.</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ Хартия 80гр. - <strong>над</strong> <strong>100&nbsp;</strong>бр.</p></td>
+      <td><p><strong>0,06</strong> лв. / <strong>0.03</strong> € /бр.</p></td>
+      <td><p><strong>0,12</strong> лв. / <strong>0.06</strong> € /бр.</p></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<h3>⭐️ Принтиране / Копиране Черно-бяло двустранно</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th><p><strong>Принтиране / копиране черно-бяло двустранно</strong></p></th>
+      <th><p><strong>А4</strong></p></th>
+      <th><p><strong>А3</strong></p></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><p>✅ Хартия 80 гр. - <strong>1-5</strong> бр.</p></td>
+      <td><p><strong>0,40</strong> лв. / <strong>0.21</strong> € /бр.</p></td>
+      <td><p><strong>0,80</strong> лв. / <strong>0.41</strong> € /бр.</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ Хартия 80 гр. - <strong>6-25</strong> бр.</p></td>
+      <td><p><strong>0,30</strong> лв. / <strong>0.16</strong> € /бр.</p></td>
+      <td><p><strong>0,60</strong> лв. / <strong>0.31</strong> € /бр.</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ Хартия 80 гр. - <strong>26-50</strong> бр.</p></td>
+      <td><p><strong>0,26</strong> лв. / <strong>0.14</strong> € /бр.</p></td>
+      <td><p><strong>0,52</strong> лв. / <strong>0.27</strong> € /бр.</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ Хартия 80 гр. - <strong>над 50</strong> бр.</p></td>
+      <td><p><strong>0,10</strong> лв. / <strong>0.05</strong> € /бр.</p></td>
+      <td><p><strong>0,20</strong> лв. / <strong>0.11</strong> € /бр.</p></td>
+    </tr>
+    <tr>
+      <td colspan="3"><p>*При ръчно ксерокопиране А4 и А3 формат единичната цена се оскъпява с 20%</p></td>
+    </tr>
+    <tr>
+      <td colspan="3"><p>*Отстъпки: При поръчка от над 500 копия едностранни А4 автоматично снимане ползвате 10% отстъпка</p></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<h3>⭐️ Принтиране / Копиране Цветно</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th><p><strong>Принтиране / копиране цветно</strong></p></th>
+      <th><p><strong>А4</strong></p></th>
+      <th><p><strong>А3</strong></p></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><p>✅ едностранно - <strong>1-20</strong> бр.</p></td>
+      <td><p><strong>1,00</strong> лв. / <strong>0.51</strong> € /бр.</p></td>
+      <td><p><strong>2,00</strong> лв. / <strong>1.03</strong> € /бр.</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ едностранно - <strong>21-100</strong> бр.</p></td>
+      <td><p><strong>0,70</strong> лв. / <strong>0.36</strong> € /бр.</p></td>
+      <td><p><strong>1,40</strong> лв. / <strong>0.72</strong> € /бр.</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ едностранно - <strong>101-300&nbsp;</strong>бр.</p></td>
+      <td><p><strong>0,60</strong> лв. / <strong>0.31</strong> € /бр.</p></td>
+      <td><p><strong>1,20</strong> лв. / <strong>0.62</strong> € /бр.</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ едностранно - <strong>над 300</strong> бр.</p></td>
+      <td><p><strong>0,40</strong> лв. / <strong>0.21</strong> € /бр.</p></td>
+      <td><p><strong>0,80</strong> лв. / <strong>0.41</strong> € /бр.</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ двустранно - <strong>1-10</strong> бр.</p></td>
+      <td><p><strong>1,80</strong> лв. / <strong>0.92</strong> € /бр.</p></td>
+      <td><p><strong>3,60</strong> лв. / <strong>1.84</strong> € /бр.</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ двустранно - <strong>11-50</strong> бр.</p></td>
+      <td><p><strong>1.40</strong> лв. / <strong>0.72</strong> € /бр.</p></td>
+      <td><p><strong>2.80</strong> лв. / <strong>1.44</strong> € /бр.</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ двустранно - <strong>51-150&nbsp;</strong>бр.</p></td>
+      <td><p><strong>1,20</strong> лв. / <strong>0.62</strong> € /бр.</p></td>
+      <td><p><strong>2.40</strong> лв. / <strong>1.23</strong> € /бр.</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ двустранно - <strong>над 150</strong> бр.</p></td>
+      <td><p><strong>1,00</strong> лв. / <strong>0.51</strong> € /бр.</p></td>
+      <td><p><strong>2,00</strong> лв. / <strong>1.03</strong> € /бр.</p></td>
+    </tr>
+    <tr>
+      <td colspan="3"><p>*Всички цени са за печат върху 100 гр. хартия.<br />
+        *Всички цени са с включено ДДС.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Като алтернатива, ако имате индивидуална заявка за вашия местен магазин, можете да изпратите имейл на <a href="mailto:office@tonerstream.com">office@tonerstream.com</a>, като посочите информацията по-долу:</p>
+
+<ul>
+  <li>Твоето име.</li>
+  <li>Телефонен номер.</li>
+  <li>Брой копия, от които се нуждаете.</li>
+  <li>Черно-бяло или цветно.</li>
+  <li>Име на магазин за колекция.</li>
+</ul>
+
+<h3 style="text-align:center">
+  <a href="/bg/kontakti" onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=yes,scrollbars=no,dependent=no'); return false;">
+    <input 
+      name="Контакти" 
+      type="button" 
+      value="Контакти" 
+      style="background-color:#CB1219; color:#FFFFFF; border:none; padding:12px 24px; cursor:pointer; font-weight:bold; border-radius:8px; transition: background-color 0.3s ease;"
+      onmouseover="this.style.backgroundColor='#FF0000';"
+      onmouseout="this.style.backgroundColor='#cc0000';"
+    />
+  </a>
+</h3>
+
+</body>
+</html>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+EN версия
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Price List</title>
+  <style>
+    table {
+      width: 60%;
+      border-collapse: collapse;
+      margin-bottom: 2rem;
+      font-family: Arial, sans-serif;
+      font-size: 15px;
+    }
+
+    table thead {
+      background-color: #f2f2f2;
+    }
+
+    table th, table td {
+      border: 1px solid #ccc;
+      padding: 10px;
+      text-align: left;
+      vertical-align: middle;
+    }
+
+    table td p, table th p {
+      margin: 0;
+    }
+
+    table th {
+      font-weight: bold;
+    }
+
+    table td:nth-child(2),
+    table td:nth-child(3),
+    table th:nth-child(2),
+    table th:nth-child(3) {
+      text-align: center;
+      width: 170px;
+    }
+
+    table td:first-child,
+    table th:first-child {
+      width: auto;
+    }
+  </style>
+</head>
+<body>
+
+<h2 style="text-align:center">Printing and Copying Price List</h2>
+
+<p>&nbsp;</p>
+
+<h3>Black and White Printing and Copying</h3>
+
+<p>High-quality and high-speed black and white printing and copying using laser machines. Always flawless printing, regardless of the number of copies. Option to print on a wide range of media.</p>
+
+<p><em>*All prices are for printing on 80gsm paper.</em></p>
+
+<p><em>*All prices include VAT.</em></p>
+
+<p>&nbsp;</p>
+
+<h3>⭐️ Black & White Single-Sided Printing / Copying</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th><p><strong>B&W Single-Sided Printing / Copying</strong></p></th>
+      <th><p><strong>A4</strong></p></th>
+      <th><p><strong>A3</strong></p></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><p>✅ 80gsm paper - <strong>1–10</strong> pcs.</p></td>
+      <td><p><strong>0.24</strong> BGN / <strong>0.12</strong> € /pc</p></td>
+      <td><p><strong>0.48</strong> BGN / <strong>0.25</strong> € /pc</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ 80gsm paper - <strong>11–50</strong> pcs.</p></td>
+      <td><p><strong>0.20</strong> BGN / <strong>0.11</strong> € /pc</p></td>
+      <td><p><strong>0.40</strong> BGN / <strong>0.21</strong> € /pc</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ 80gsm paper - <strong>51–100</strong> pcs.</p></td>
+      <td><p><strong>0.15</strong> BGN / <strong>0.08</strong> € /pc</p></td>
+      <td><p><strong>0.30</strong> BGN / <strong>0.16</strong> € /pc</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ 80gsm paper - <strong>over 100</strong> pcs.</p></td>
+      <td><p><strong>0.06</strong> BGN / <strong>0.03</strong> € /pc</p></td>
+      <td><p><strong>0.12</strong> BGN / <strong>0.06</strong> € /pc</p></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<h3>⭐️ Black & White Double-Sided Printing / Copying</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th><p><strong>B&W Double-Sided Printing / Copying</strong></p></th>
+      <th><p><strong>A4</strong></p></th>
+      <th><p><strong>A3</strong></p></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><p>✅ 80gsm paper - <strong>1–5</strong> pcs.</p></td>
+      <td><p><strong>0.40</strong> BGN / <strong>0.21</strong> € /pc</p></td>
+      <td><p><strong>0.80</strong> BGN / <strong>0.41</strong> € /pc</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ 80gsm paper - <strong>6–25</strong> pcs.</p></td>
+      <td><p><strong>0.30</strong> BGN / <strong>0.16</strong> € /pc</p></td>
+      <td><p><strong>0.60</strong> BGN / <strong>0.31</strong> € /pc</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ 80gsm paper - <strong>26–50</strong> pcs.</p></td>
+      <td><p><strong>0.26</strong> BGN / <strong>0.14</strong> € /pc</p></td>
+      <td><p><strong>0.52</strong> BGN / <strong>0.27</strong> € /pc</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ 80gsm paper - <strong>over 50</strong> pcs.</p></td>
+      <td><p><strong>0.10</strong> BGN / <strong>0.05</strong> € /pc</p></td>
+      <td><p><strong>0.20</strong> BGN / <strong>0.11</strong> € /pc</p></td>
+    </tr>
+    <tr>
+      <td colspan="3"><p>*For manual copying of A4 and A3, the unit price increases by 20%.</p></td>
+    </tr>
+    <tr>
+      <td colspan="3"><p>*Discounts: For orders over 500 single-sided A4 copies (automatic scanning), you get 10% discount.</p></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<h3>⭐️ Color Printing / Copying</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th><p><strong>Color Printing / Copying</strong></p></th>
+      <th><p><strong>A4</strong></p></th>
+      <th><p><strong>A3</strong></p></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><p>✅ Single-sided - <strong>1–20</strong> pcs.</p></td>
+      <td><p><strong>1.00</strong> BGN / <strong>0.51</strong> € /pc</p></td>
+      <td><p><strong>2.00</strong> BGN / <strong>1.03</strong> € /pc</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ Single-sided - <strong>21–100</strong> pcs.</p></td>
+      <td><p><strong>0.70</strong> BGN / <strong>0.36</strong> € /pc</p></td>
+      <td><p><strong>1.40</strong> BGN / <strong>0.72</strong> € /pc</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ Single-sided - <strong>101–300</strong> pcs.</p></td>
+      <td><p><strong>0.60</strong> BGN / <strong>0.31</strong> € /pc</p></td>
+      <td><p><strong>1.20</strong> BGN / <strong>0.62</strong> € /pc</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ Single-sided - <strong>over 300</strong> pcs.</p></td>
+      <td><p><strong>0.40</strong> BGN / <strong>0.21</strong> € /pc</p></td>
+      <td><p><strong>0.80</strong> BGN / <strong>0.41</strong> € /pc</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ Double-sided - <strong>1–10</strong> pcs.</p></td>
+      <td><p><strong>1.80</strong> BGN / <strong>0.92</strong> € /pc</p></td>
+      <td><p><strong>3.60</strong> BGN / <strong>1.84</strong> € /pc</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ Double-sided - <strong>11–50</strong> pcs.</p></td>
+      <td><p><strong>1.40</strong> BGN / <strong>0.72</strong> € /pc</p></td>
+      <td><p><strong>2.80</strong> BGN / <strong>1.44</strong> € /pc</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ Double-sided - <strong>51–150</strong> pcs.</p></td>
+      <td><p><strong>1.20</strong> BGN / <strong>0.62</strong> € /pc</p></td>
+      <td><p><strong>2.40</strong> BGN / <strong>1.23</strong> € /pc</p></td>
+    </tr>
+    <tr>
+      <td><p>✅ Double-sided - <strong>over 150</strong> pcs.</p></td>
+      <td><p><strong>1.00</strong> BGN / <strong>0.51</strong> € /pc</p></td>
+      <td><p><strong>2.00</strong> BGN / <strong>1.03</strong> € /pc</p></td>
+    </tr>
+    <tr>
+      <td colspan="3"><p>*All prices are for printing on 100gsm paper.<br />
+        *All prices include VAT.</p></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Alternatively, if you have a custom request for your local store, you can email <a href="mailto:office@tonerstream.com">office@tonerstream.com</a> with the following information:</p>
+
+<ul>
+  <li>Your name</li>
+  <li>Phone number</li>
+  <li>Number of copies needed</li>
+  <li>Black & white or color</li>
+  <li>Store name for collection</li>
+</ul>
+
+<h3 style="text-align:center">
+  <a href="/en/kontakti" onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=yes,scrollbars=no,dependent=no'); return false;">
+    <input 
+      name="Contacts" 
+      type="button" 
+      value="Contacts" 
+      style="background-color:#CB1219; color:#FFFFFF; border:none; padding:12px 24px; cursor:pointer; font-weight:bold; border-radius:8px; transition: background-color 0.3s ease;"
+      onmouseover="this.style.backgroundColor='#FF0000';"
+      onmouseout="this.style.backgroundColor='#cc0000';"
+    />
+  </a>
+</h3>
+
+</body>
+</html>
+
+

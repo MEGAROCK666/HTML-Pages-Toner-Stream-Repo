@@ -1,0 +1,192 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+BG Version
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<style>
+    .responsive-button {
+        display: inline-block;
+        background-color: #CB1219;
+        color: #FFFFFF;
+        border: none;
+        padding: 12px 24px;
+        cursor: pointer;
+        font-weight: bold;
+        border-radius: 8px;
+        transition: background-color 0.3s ease;
+        text-align: center;
+        white-space: normal;
+        max-width: 100%;
+        word-break: break-word;
+        font-size: 1.6rem;
+        line-height: 1.4;
+        text-decoration: none;
+    }
+
+    .responsive-button:hover {
+        background-color: #FF0000;
+    }
+
+    @media (max-width: 576px) {
+        .responsive-button {
+            font-size: 0.95rem;
+            padding: 10px 20px;
+        }
+    }
+</style>
+
+<p>Случва се точно в най-неподходящия момент, принтерът спира да печата. Нуждаете се от
+    презареждане на тонер и се налага да реагирате веднага. Тази ситуация може да ви е добре позната, ако сте
+    собственик на бизнес или често използвате печатащи машини. Ако пък за първи път се сблъсквате с подобен казус,
+    не изпадайте в паника. В следващите редове сме обяснили на достъпен език процесът на презареждане на тонер
+    касета.</p>
+
+<h3>Какво представлява презареждане на тонер касета?</h3>
+
+<p>Това е процедура, която включва няколко стъпки.</p>
+
+<ol>
+    <li><strong>Касетата се разглобява и се почиства от остатъци от стария тонер.</strong></li>
+    <li><strong>След това се извършва зареждане на касетата с нов тонер.</strong></li>
+    <li><strong>След като касетата е заредена с необходимото количество тонер, ние я сглобяваме.</strong></li>
+    <li><strong>Вече презаредената тонер касета се тества, за да се провери дали е годна за издаване. Тестът включва
+            проверка на
+            плътността и равномерността на отпечатване, както и на функционалността.</strong></li>
+    <li><strong>След успешното тестване, презаредената с тонер касета се опакова. Предава се на клиента напълно готова
+            за
+            използване.&nbsp;</strong></li>
+</ol>
+
+<h3>Добро решение ли е презареждането с тонер?</h3>
+
+<ul>
+    <li>Презареждането на тонер касети e едновременно екологично и икономично решение. Позволява
+        продължителната употреба на една тонер касета, вместо непрекъснато да се закупуват и подменят нови консумативи.
+        От друга страна, това се оказва и доста по-евтин вариант от замяната с оригинална тонер касета.
+
+        Въпреки всичко презареждането има и своя недостатък. При този процес не се подменят
+        износените компоненти в тонер касетата. За осигуряването на качествен и безпроблемен печат е важно негодните
+        части да бъдат заменяни своевременно.</li>
+</ul>
+
+<h3>Препоръката на Toner Stream</h3>
+
+<ul>
+    <li>Отлично разбираме нуждите на своите клиенти, затова предлагаме по-интелигентно решение
+        на проблемът с изразходваните консумативи - стриймиране.
+
+        Тази услуга включва презареждане, поддръжка и подновяване на тонер касети. Щом пристигат
+        в сервиза, касетите се тестват, негодните части се подменят, след което се зареждат с тонер и отново преминават
+        тестове за качество на печата. Получавате безупречно работеща тонер касета, която в същото време е на добра
+        цена.</li>
+</ul>
+
+<p>Изберете услугата, която най-добре пасва на нуждите на вашия бизнес. Нашата работа е да
+    предоставяме качество, експертни съвети и добри резултати.</p>
+
+
+<h3 style="text-align:center">
+    <a href="/bg/striymirane" class="responsive-button"
+        onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=yes,scrollbars=no,dependent=no'); return false;">
+        Научете още за стриймиране
+    </a>
+</h3>
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+EN Version
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<style>
+    .responsive-button {
+        display: inline-block;
+        background-color: #CB1219;
+        color: #FFFFFF;
+        border: none;
+        padding: 12px 24px;
+        cursor: pointer;
+        font-weight: bold;
+        border-radius: 8px;
+        transition: background-color 0.3s ease;
+        text-align: center;
+        white-space: normal;
+        max-width: 100%;
+        word-break: break-word;
+        font-size: 1.6rem;
+        line-height: 1.4;
+        text-decoration: none;
+    }
+
+    .responsive-button:hover {
+        background-color: #FF0000;
+    }
+
+    @media (max-width: 576px) {
+        .responsive-button {
+            font-size: 0.95rem;
+            padding: 10px 20px;
+        }
+    }
+</style>
+
+<p>It happens at the most inconvenient time&mdash;your printer stops printing. You need a
+    toner refill and must act quickly. This situation might be familiar if you own a business or frequently use
+    printing machines. But if you&#39;re facing this issue for the first time, don&#39;t panic. In the following
+    lines, we&rsquo;ll explain the toner cartridge refill process in simple terms.</p>
+
+<h3>What is toner cartridge refilling?</h3>
+
+<p>This is a procedure that involves several steps:</p>
+
+<ol>
+    <li><strong>The cartridge is disassembled and cleaned of any remaining old toner.</strong></li>
+    <li><strong>Then, the cartridge is refilled with new toner.</strong></li>
+    <li><strong>Once the cartridge has been filled with the necessary amount of toner, it is reassembled.</strong></li>
+    <li><strong>The refilled toner cartridge is tested to ensure it is ready for use. The test checks the print density
+            and
+            evenness, as well as the functionality.</strong></li>
+    <li><strong>After successful testing, the refilled toner cartridge is packaged and handed over to the customer,
+            fully ready
+            for use.&nbsp;</strong></li>
+</ol>
+
+<h3>Is toner refilling a good solution?</h3>
+
+<ul>
+    <li>Refilling toner cartridges is both an eco-friendly and economical solution. It allows
+        for the prolonged use of a single toner cartridge, instead of constantly buying and replacing new supplies.
+        Additionally, it is often a much cheaper option than replacing it with an original toner cartridge.
+
+        However, refilling does have a downside. During this process, worn components in the
+        toner cartridge are not replaced. To ensure high-quality and trouble-free printing, it&rsquo;s important that
+        unusable parts are replaced in a timely manner.</li>
+</ul>
+
+<h3>Toner Stream&rsquo;s Recommendation</h3>
+
+<ul>
+    <li>We fully understand our customers&#39; needs, which is why we offer a smarter solution
+        to the problem of depleted supplies&mdash; streaming.
+
+        This service includes refilling, maintenance, and renewing toner cartridges. When
+        cartridges arrive at our service center, they are tested, worn parts are replaced, they are refilled with toner,
+        and then they undergo further quality tests. You receive a flawlessly working toner cartridge at an affordable
+        price.</li>
+</ul>
+
+<p>Choose the service that best suits your business needs. Our job is to provide quality,
+    expert advice, and excellent results.</p>
+
+
+<h3 style="text-align:center">
+    <a href="/en/streaming" class="responsive-button"
+        onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=yes,scrollbars=no,dependent=no'); return false;">
+        Learn more about streaming
+    </a>
+</h3>
