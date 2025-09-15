@@ -1,0 +1,469 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+BG версия NEW
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Политика за защита на личните данни на ТОНЕР СTРИЙМ ООД. Научете как събираме, използваме и защитаваме вашите данни съгласно GDPR.">
+  <title>Политика за защита на личните данни | ТОНЕР СTРИЙМ ООД</title>
+</head>
+<body>
+  <h1>Политика за защита на личните данни на ТОНЕР СTРИЙМ ООД</h1>
+  <p>
+    Настоящата <strong>политика за защита на личните данни</strong> е неразделна част от Общите условия на 
+    <strong>ТОНЕР СTРИЙМ ООД</strong>. Тя обяснява как събираме, използваме и съхраняваме личните Ви данни, какви права имате съгласно 
+    <strong>Регламент (ЕС) 2016/679 (GDPR)</strong> и как гарантираме тяхната сигурност.
+  </p>
+
+  <h2>I. Идентификация на администратора на лични данни</h2>
+  <ul>
+    <li>Фирма: <strong>ТОНЕР СTРИЙМ ООД</strong></li>
+    <li>Адрес: гр. София, ул. проф. Иван Георгов 14А, ет. 3</li>
+    <li>ЕИК: 175329384</li>
+    <li>ДДС номер: BG175329384</li>
+    <li>МОЛ: Васил Николов</li>
+  </ul>
+  <p>ТОНЕР СTРИЙМ ООД е администратор на лични данни по смисъла на GDPR.</p>
+
+  <h2>II. Какви лични данни събираме</h2>
+  <h3>1. При регистрация или доброволно предоставяне</h3>
+  <ul>
+    <li>име, презиме и фамилия;</li>
+    <li>имейл адрес и телефонен номер;</li>
+    <li>рождена дата, коментари, снимки;</li>
+    <li>данни за местоположение (по избор).</li>
+  </ul>
+
+  <h3>2. При договорни отношения</h3>
+  <p>За изпълнение на договор ТОНЕР СTРИЙМ ООД събира: име, имейл, адрес и телефон.</p>
+
+  <h3>3. При онлайн покупки</h3>
+  <ul>
+    <li>информация за плащания;</li>
+    <li>данни за доставка (адрес и телефон);</li>
+    <li>информация за избраните продукти и услуги.</li>
+  </ul>
+
+  <h3>4. Чрез външни профили</h3>
+  <p>Ако свържете профила си с Facebook, Google и др., получаваме информация според настройките Ви.</p>
+
+  <h3>5. Технически данни</h3>
+  <ul>
+    <li>IP адрес, браузър, операционна система;</li>
+    <li>данни от бисквитки;</li>
+    <li>лог файлове (дата, час, действия).</li>
+  </ul>
+
+  <h2>III. Използване на бисквитки (Cookies)</h2>
+  <p>Нашият сайт използва <strong>сесийни и постоянни бисквитки</strong>, за да подобри изживяването и персонализира рекламата. 
+    Подробности – в <a href="/cookies-policy">Политика за бисквитки</a>.
+  </p>
+
+  <h2>IV. Цели на обработването на лични данни</h2>
+  <ul>
+    <li>Изпълнение на договори и доставки (чл. 6, т.1, б. „б“ от GDPR);</li>
+    <li>Преддоговорни отношения;</li>
+    <li>Маркетинг и реклама – персонализирана и неперсонализирана;</li>
+    <li>Персонализирана оценка и профилиране;</li>
+    <li>Ретаргетинг и оптимизация на кампании.</li>
+  </ul>
+
+  <h2>V. Срок на съхранение на данните</h2>
+  <ul>
+    <li>Докато акаунтът Ви е активен и 10 години след закриването му;</li>
+    <li>Докато са необходими за договорни задължения;</li>
+    <li>До поискване на изтриване.</li>
+  </ul>
+
+  <h2>VI. Споделяне на лични данни</h2>
+  <p>Данните могат да бъдат предоставени на куриери (Еконт, Спиди, Европът), национални пощенски оператори и държавни органи при законово изискване.</p>
+
+  <h2>VII. Вашите права</h2>
+  <ul>
+    <li>Право на информираност;</li>
+    <li>Право на достъп;</li>
+    <li>Право на корекция;</li>
+    <li>Право на изтриване (право да бъдеш забравен);</li>
+    <li>Право на ограничаване;</li>
+    <li>Право на преносимост;</li>
+    <li>Право на възражение;</li>
+    <li>Право на отказ от автоматизирани решения;</li>
+    <li>Право на жалба пред КЗЛД (<a href="https://www.cpdp.bg">www.cpdp.bg</a>).</li>
+  </ul>
+  <p>Можете да отправяте искания чрез имейл: <a href="mailto:privacy@tonerstream.com">privacy@tonerstream.com</a>.</p>
+
+  <h2>VIII. Сигурност на данните</h2>
+  <p>Прилагаме SSL криптиране, контрол на достъпа и работа само с GDPR-съвместими партньори.</p>
+
+  <h2>IX. Реклама и маркетингови съобщения</h2>
+  <p>С Ваше съгласие може да получавате бюлетини, оферти и покани за проучвания.</p>
+
+  <h2>X. Декларация</h2>
+  <p>
+    ТОНЕР СTРИЙМ ООД спазва принципите на европейското и националното законодателство и прилага технически, организационни и правни мерки 
+    за защита на личните данни, като гарантира високо ниво на сигурност и предотвратява злоупотреби.
+  </p>
+</body>
+</html>
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+EN версия NEW
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Privacy Policy of TONER STREAM LTD. Learn how we collect, use, and protect your data in compliance with GDPR.">
+  <title>Privacy Policy | TONER STREAM LTD</title>
+</head>
+<body>
+  <h1>Privacy Policy of TONER STREAM LTD</h1>
+  <p>
+    This <strong>Privacy Policy</strong> is an integral part of the Terms and Conditions of 
+    <strong>TONER STREAM LTD</strong>. It explains how we collect, use, and store your personal data, what rights you have under 
+    <strong>Regulation (EU) 2016/679 (GDPR)</strong>, and how we ensure its security.
+  </p>
+
+  <h2>I. Identification of the Data Controller</h2>
+  <ul>
+    <li>Company: <strong>TONER STREAM LTD</strong></li>
+    <li>Address: Sofia, Prof. Ivan Georgov St. 14A, floor 3</li>
+    <li>UIC: 175329384</li>
+    <li>VAT number: BG175329384</li>
+    <li>Manager: Vasil Nikolov</li>
+  </ul>
+  <p>TONER STREAM LTD is a Data Controller within the meaning of the GDPR.</p>
+
+  <h2>II. What Personal Data We Collect</h2>
+  <h3>1. Upon registration or voluntary provision</h3>
+  <ul>
+    <li>first, middle, and last name;</li>
+    <li>email address and phone number;</li>
+    <li>date of birth, comments, photos;</li>
+    <li>location data (optional).</li>
+  </ul>
+
+  <h3>2. In contractual relations</h3>
+  <p>For contract execution TONER STREAM LTD collects: name, email, address, and phone number.</p>
+
+  <h3>3. For online purchases</h3>
+  <ul>
+    <li>payment information;</li>
+    <li>delivery data (address and phone);</li>
+    <li>information about selected products and services.</li>
+  </ul>
+
+  <h3>4. Through external profiles</h3>
+  <p>If you connect your profile with Facebook, Google, etc., we receive information according to your settings.</p>
+
+  <h3>5. Technical data</h3>
+  <ul>
+    <li>IP address, browser, operating system;</li>
+    <li>cookie data;</li>
+    <li>log files (date, time, actions).</li>
+  </ul>
+
+  <h2>III. Use of Cookies</h2>
+  <p>Our website uses <strong>session and persistent cookies</strong> to improve the experience and personalize advertising. 
+    Details – in the <a href="/cookies-policy">Cookie Policy</a>.
+  </p>
+
+  <h2>IV. Purposes of Processing Personal Data</h2>
+  <ul>
+    <li>Contract performance and deliveries (Art. 6, para.1, letter “b” of GDPR);</li>
+    <li>Pre-contractual relations;</li>
+    <li>Marketing and advertising – personalized and non-personalized;</li>
+    <li>Personalized assessment and profiling;</li>
+    <li>Retargeting and campaign optimization.</li>
+  </ul>
+
+  <h2>V. Data Retention Period</h2>
+  <ul>
+    <li>As long as your account is active and 10 years after its closure;</li>
+    <li>As long as necessary for contractual obligations;</li>
+    <li>Until a deletion request is made.</li>
+  </ul>
+
+  <h2>VI. Sharing of Personal Data</h2>
+  <p>Data may be provided to couriers (Econt, Speedy, Evropt), national postal operators, and government authorities when legally required.</p>
+
+  <h2>VII. Your Rights</h2>
+  <ul>
+    <li>Right to be informed;</li>
+    <li>Right of access;</li>
+    <li>Right to rectification;</li>
+    <li>Right to erasure (right to be forgotten);</li>
+    <li>Right to restriction;</li>
+    <li>Right to data portability;</li>
+    <li>Right to object;</li>
+    <li>Right to opt-out of automated decisions;</li>
+    <li>Right to lodge a complaint with the CPDP (<a href="https://www.cpdp.bg/en/">www.cpdp.bg</a>).</li>
+  </ul>
+  <p>You may submit requests via email: <a href="mailto:privacy@tonerstream.com">privacy@tonerstream.com</a>.</p>
+
+  <h2>VIII. Data Security</h2>
+  <p>We apply SSL encryption, access control, and work only with GDPR-compliant partners.</p>
+
+  <h2>IX. Advertising and Marketing Communications</h2>
+  <p>With your consent, you may receive newsletters, offers, and invitations to surveys.</p>
+
+  <h2>X. Declaration</h2>
+  <p>
+    TONER STREAM LTD complies with the principles of European and national legislation and applies technical, organizational, 
+    and legal measures for personal data protection, ensuring a high level of security and preventing misuse.
+  </p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------
+BG версия OLD
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+<p>Настоящата политика за защита на личните данни е неразделна част от Общите условия на&nbsp;<strong>ТОНЕР СТРИЙМ ООД&nbsp;</strong>и обхваща въпросите, свързани с личните данни, вкл.<strong>&nbsp;</strong>каква информация събираме като Администратор на лични данни, как я използваме и какви права имат потребителите в тази връзка.</p>
+
+<p><strong>ТОНЕР СТРИЙМ ООД</strong>&nbsp;има качеството администратор на лични данни съгласно Регламент (ЕС) 2016/679 (<em>наричан по-долу за краткост &bdquo;<strong>Регламент</strong>&ldquo;).</em></p>
+
+<p><em>Идентификация на администратора:&nbsp;</em><strong>ТОНЕР СТРИЙМ ООД</strong><br />
+<em>Седалище и адрес на управление:&nbsp;</em><em>гр. София, ул. проф. Иван Георгов 14А, ет.3</em><br />
+<em>ЕИК&nbsp;</em><em>175329384, ДДС номер: BG175329384</em><br />
+<em>МОЛ:&nbsp;</em><em>Васил Николов</em></p>
+
+<p><strong>ТОНЕР СТРИЙМ ООД</strong>&nbsp;третира като лични данни всяка информация,&nbsp;която&nbsp;идентифицира конкретно&nbsp;физическо лице&nbsp;или която се отнася&nbsp;до&nbsp;физическо лице, чрез която същото може да бъде идентифицирано. Обработването на лични данни представлява действие или съвкупност от действия, които могат да се извършат по отношение на личните данни с автоматични или други средства.</p>
+
+<p><strong>I. Как събираме информация за Вас?</strong></p>
+
+<p><strong>1.</strong>&nbsp;Ние събираме лични данни, след изрично съгласие на лицето, за което се отнасят. Когато се регистрирате на нашия сайт или използвате някоя от формите, Вие ни предоставяте определена информация доброволно, която ние обработваме и съхраняваме. Тази информация може да включва: име, презиме, фамилия, имейл адрес, телефонен номер, рождена дата, пинове, коментари и всяка друга информация, която ни предоставяте. Възможно е да изберете да споделяте с нас данни за местоположението или снимки. Възможно е да предпочетем да намалим обема на данните, които съхраняваме и обработваме, съобразно целите на обработката.</p>
+
+<p>При договорни взаимоотношение, с цел изпълнението на договора ние задължително получаваме следните лични данни: име, презиме, фамилия, имейл, адрес, телефонен номер .</p>
+
+<p><strong>2</strong>. В случай, че решите да закупите продукт или да поръчате определена услуга посредством сайта&nbsp;<a href="https://www.tonerstream.com"><strong>https://www.tonerstream.com/</strong></a>, ние събираме информация за плащанията, информация за връзка (адрес и телефонен номер) и подробности за продукта или услугата, които сте поръчали.<br />
+<br />
+<br />
+<strong>3.</strong>&nbsp;При свързване на вашия профил с профила си във Facebook или Google или с други услуги на трети страни, ние получаваме и информацията от тези профили. Информацията, която получаваме от тези услуги, зависи от настройките и от декларациите за поверителност, така че всяко лице следва да провери какви са те.</p>
+
+<p><strong>4.</strong>&nbsp;Също така, ние получаваме техническа информация, когато използвате нашия сайт. Всеки път, когато използвате сайта, мобилно приложение или друга интернет услуга, системата създава и записва определена информация автоматично. Ето някои от категориите информация, която събираме:</p>
+
+<p><strong>a/ Данни в регистрационните файлове</strong>. Когато използвате сайта, нашите сървъри записват информация (&quot;данни от дневника&quot; или &ldquo;log data&rdquo;), включително информация, която браузърът ви автоматично изпраща при посещение на уеб сайт или мобилното ви приложение автоматично изпраща, когато го използвате. Тези данни от дневника включват адреса на интернет протокола, адреса и активността на посещаваните от вас уеб сайтове, търсения, тип и настройки на браузъра, дата и час на заявката ви, как сте използвали сайта, данните за &quot;бисквитките&quot; и данните за устройствата. Ако искате да получите повече подробности за информацията, която ние събираме &ndash; свържете се с нас чрез формата за контакт.</p>
+
+<p><strong>б/ Данни за &quot;бисквитките&quot;.</strong>&nbsp;Ние също така използваме &quot;бисквитки&quot; (малки текстови файлове, изпратени от вашия компютър всеки път, когато посещавате нашия уеб сайт) или подобни технологии за улавяне на данни. Когато използваме &quot;бисквитки&quot; или други подобни технологии, ние използваме &quot;бисквитки&quot; на сесията (продължават, докато затворите браузъра си) или постоянните &quot;бисквитки&quot; (които продължават, докато вие или браузърът ви ги изтрият). Например, ние използваме &quot;бисквитки&quot;, за да съхраняваме вашите езикови предпочитания или други настройки, така че не е нужно да ги настройвате всеки път, когато посещавате сайта. Някои от &quot;бисквитките&quot;, които използваме, са свързани с профила ви (включително информация за вас, като например имейл адреса, който сте ни дали), а други &quot;бисквитки&quot; не са. За по-подробна информация за това как използваме &quot;бисквитките&quot;, моля, прегледайте правилата ни за &quot;бисквитките&quot;.</p>
+
+<p><strong>в/ Информация за устройството.</strong>&nbsp;В допълнение към данните в дневника, ние събираме информация за устройството, чрез което използвате нашия уеб сайт, включително тип устройство, операционна система, настройки, уникални идентификатори на устройства и данни за сривове, които ни помагат да разберем, когато нещо се счупи. Дали събираме част или цялата информация, често зависи от типа на устройството, което използвате и от настройките му. Например има различни типове информация в зависимост от това дали използвате Mac или компютър или iPhone или телефон с Android. За да научите повече за това, каква информация прави вашето устройство достъпни за нас, моля, проверете и правилата на производителя на устройството или доставчика на софтуер.</p>
+
+<p><strong>II. Какво правим с информацията, която събираме. Цели и срок на обработката:</strong></p>
+
+<p><strong><em>Цели</em></strong></p>
+
+<p><strong>ТОНЕР СТРИЙМ ООД</strong>&nbsp;обработва и съхранява личнитe данни, посочени по-горе единствено с цел изпълнение на договорните си задължения и по-точно обработване на заявките на своите потребители, извършване на доставка, както и за следните цели:</p>
+
+<p>а/ На основание чл. 6, т.1, буква &bdquo;б&rdquo; от Регламента - за осъществяване на преддоговорни отношения;<br />
+б/ На основание чл. 6, т.1, буква &bdquo;б&rdquo; от Регламента - за изпълнение на вече възникнали договорни задължения.<br />
+в/ На основание чл. 6, ал. 1, буква &bdquo;а&rdquo; и чл. 7 от Регламента &ndash; за неперсонализирана реклама;<br />
+г/ На основание чл. 6, ал. 1, буква &bdquo;а&rdquo; и чл. 7 от Регламента &ndash; за персонализирана реклама;<br />
+д/ На основание чл. 22, ал. 2, буква &bdquo;в&rdquo;, чл. 6, ал. 1, буква &bdquo;а&rdquo; и чл. 7 от Регламента &ndash; за извършване на персонализирана оценка на информация;<br />
+е/ На основание чл. 6, ал. 1, буква &bdquo;е&rdquo; &ndash; за маркетингови цели.<br />
+ж/ На основание чл. 6, ал. 1, буква &bdquo;е&rdquo; от Регламента &ndash; за ретаргетинг във връзка с целите на маркетинга, ремаркетинга или оптимизацията;</p>
+
+<p><strong><em>Срок</em></strong></p>
+
+<p>Данните се съхраняват и обработват докато акаунтът на потребителя е действащ и 10 години след деактивирането или изтриването му, както и докато има нужда от нея за предоставяне на услугите ни. В случай, че лицето направи съответната заявка, информацията се унищожава незабавно.</p>
+
+<p>С цел извършване на доставка, когато такава е заявена от потребителя,&nbsp;<strong>ТОНЕР СТРИЙМ ООД</strong>&nbsp;има право да предоставя горепосочените лични данни или част от тях на куриери компании или националните пощенски оператори, вкл. ЕКОНТ, СПИДИ, ЕВРОПЪТ. В тази връзка, потрeбителят може да получава SMS или обаждания от тези лица.</p>
+
+<p><strong>III. Права, които може да упражните във връзка с вашите лични данни:</strong></p>
+
+<p>Всички права се упражняват, а съответните искания и уведомления във връзка с правата на субектите на данни, се депозират чрез&nbsp;<a href="/bg/kontakti">ФОРМАТА ЗА КОНТАКТ ПО ВЪПРОСИ, СВЪРЗАНИ С ЛИЧНИТЕ ДАННИ</a>, на e-mail&nbsp;<strong>privacy@tonerstream.com</strong>. Или по пощата на адреса на управление, посочен по-горе. Исканията се правят по начин, който позволява да се идентифицира самоличността на заявителя. По отношение на някои права, възможно е да бъдат приложими технически възможности за упражняването им, например Бутон за отписване. При всички случаи, администраторът следва да отговори на искането или да се произнесе по отношение на обявеното право на предоставения във формата за контакт адрес или е-мейл, в срок от един месец от получаването й.</p>
+
+<p><strong>Според Общия регламент за защита на личните данни субектът на данни има право на:</strong></p>
+
+<p>&bull;&nbsp;<strong>Информираност&nbsp;</strong>(във връзка с обработването на личните му данни от администратора); Когато има риск за нарушение сигурността на личните Ви данни, администраторът е длъжен да Ви уведоми за естеството на нарушението и какви мерки са предприети за отстраняването му, както и дали е уведомен надзорният орган за нарушението.</p>
+
+<p>&bull;&nbsp;<strong>Достъп до собствените си лични данни и право на оттегляне на съгласието за обработка.</strong>&nbsp;Като субект на лични данни имате право да поискате потвърждение дали се обработват личните Ви данни и ако това е така - да получите достъп до данните си и следната информация: за каква цел се обработват данни, какви лични данни, получателите на данни, срокът на обработване. Исканията за достъп трябва да бъдат изготвени в писмен/електронен вид и да бъдат адресирани до администратора. Също така, имате право по всяко време да оттеглите съгласието си за обработка на личните ви данни.</p>
+
+<p>&bull;&nbsp;<strong>Коригиране (ако данните са неточни).</strong>&nbsp;Като субект на лични данни имате право да поискате коригиране на личните си данни, които са неточни/неактуални. За тази цел трябва да подадете отделно искане. На искането Ви ще бъде отговорено от страна на администратора по следния начин &ndash; писмено, на предоставения е-мейл адрес.</p>
+
+<p>&bull;&nbsp;<strong>Изтриване на личните данни</strong>&nbsp;(право &bdquo;да бъдеш забравен&ldquo;). Като субект на лични данни имате право да &bdquo;бъдете забравен&rdquo;, т.е. да поискате личните Ви данни да бъдат изтрити без ненужно забавяне т.е. администраторът да заличи личните ви данни от всички системи и записи, където те се съхраняват, включително да уведоми всички трети лица/обработващи лични данни, на които е предоставил данните. Искане за изтриване може да се подаде на основанията, предвидени в Регламента, вкл. при наличието на някое от следните основания: личните данни повече не са необходими за целите, за които са били събрани; когато сте оттеглил своето съгласие; когато сте възразил срещу обработването, когато обработването е незаконосъобразно; когато личните данни трябва да бъдат изтрити с цел спазването на правно задължение по правото на Съюза или правото на държава членка, което се прилага спрямо администратора; когато личните данни са били събрани във връзка с предлагането на услуги на информационното общество. Администраторът може да откаже да заличи личните данни на основанията, посочени в Регламента - когато обработването на конкретните данни е с цел: упражняване правото на свобода на изразяване и информация; изпълняване на правно задължение или задача от обществен интерес или упражняване на публична власт; за целите на общественото здраве; архивиране за цели в обществен интерес, научноизследователски исторически изследвания или статистически цели; или установяване, упражняване или защитата на правни претенции.</p>
+
+<p>&bull;&nbsp;<strong>Ограничаване на обработването</strong>&nbsp;от страна на администратора или обработващия лични данни. Като субект на лични данни имате право да поискате от администратора на личните Ви данни да ограничи обработването им. Ограничаването се допуска в следните случаи: - когато считате, че личните Ви данни не са точни, като в този случай ограничаването е за срок, необходим на администратора да провери точността; - когато обработването на личните Ви данни е неправомерно, но не желаете те да бъдат изтрити, а желаете само да бъде ограничено използването им; - когато администраторът не се нуждае повече от личните Ви данни за целите на обработването, но вие, като субект на данните, ги изисквате за установяването, упражняването или защитата на правни претенции; - когато сте възразил срещу обработването в очакване на проверка дали законните основания на администратора имат преимущество пред интересите ви. За целта, при наличие на някое от горните условия, следва да подадете искане.</p>
+
+<p>&bull;&nbsp;<strong>Преносимост на личните данни,&nbsp;</strong>вкл. между отделните администратори. Субектът на данните има право на преносимост - да получи личните данни, които го засягат и които той е предоставил на администратор, в структуриран, широко използван и пригоден за машинно четене формат и има правото да прехвърли тези данни на друг администратор без възпрепятстване от администратора, на когото личните данни са предоставени, когато обработването е основано на съгласие или на договорно задължение и обработването се извършва по автоматизиран начин. Когато упражнява правото си на преносимост на данните, субектът на данните има право да получи и пряко прехвърляне на личните данни от един администратор към друг, когато това е технически осъществимо.</p>
+
+<p>&bull;&nbsp;<strong>Възражение спрямо обработването</strong>&nbsp;на негови лични данни. Като субект на лични данни имате право да възразите срещу обработването на личните ви данни по всяко време, вкл. когато е за целите на директния маркетинг. Администраторът следва да се мотивира дали приема възражението, респ. защо продължава да обработва личните данни, ако отхвърли възражението.<br />
+&bull; Субектът на данни има право и&nbsp;<strong>да не бъде обект на решение, основаващо се единствено на автоматизирано обработване</strong>, включващо профилиране, което поражда правни последствия за субекта на данните или по подобен начин го засяга в значителна степен. Субектът на данни има право по всяко време да оспори автоматизираното решение.</p>
+
+<p>&bull;&nbsp;<strong>Право на защита</strong>&nbsp;по съдебен или административен ред, в случай, че правата на субекта на данни са били нарушени. Като субект на лични данни имате право на жалба срещу обработването на личните Ви данни или неспазване на правата ви във връзка със защитата на лични данни пред компетентния надзорен орган - Комисия за защита на личните данни, адрес: гр. София 1592, бул. &bdquo;Проф. Цветан Лазаров&rdquo; № 2 (<a href="http://www.cpdp.bg/">www.cpdp.bg</a>). Също така, лице, което е претърпяло материални или нематериални вреди в резултат на нарушение на настоящия регламент, има право да получи обезщетение от администратора или обработващия лични данни за нанесените вреди.</p>
+
+<p><strong>Сигурност&nbsp;</strong>Ние сме предприели множество технически, правни и организационни мерки за защита на личните данни на всяко едно лице. С цел избягване на нерегламентиран достъп, ние изпълняваме процедури по криптиране в някои области.Също така, ние използваме SSL &ndash; протоколи, за да предотвратим възможността за злоупотреба с данните от трети лица. Ние не споделяме данни с трети лица, освен в случаите когато следва да извършим доставка на поръчана стока.<br />
+Възможно е да ползваме услугите на използва трети лица, които се явяват обработващи лични данни за горепосочените цели на обработката. Тези лица обработват личните данни по наше възлагане и са задължени да спазват действащите разпоредби за защита на личните данни. Тези лица са внимателно подбрани от нас и имат достъп единствено до данни, които са им необходими за предоставянето на услугите, с които са ангажирани и в рамките на изявеното към нас съгласие. В случай, че тези лица са извън ЕС и не изпълняват необходимите изисквания на GDPR, въз основа на статута му на нормативен акт, ние ще гарантираме защитата на личните данни чрез договорни или други правни инструменти. Също така, възможно е личните данни могат да бъдат предоставени на държавни или общински органи, които осъществяват различен вид контрол в рамките на закона.</p>
+
+<p><strong>Реклама&nbsp;</strong>С потвърждаване на заявката за регистрация на акаунт, потвърждаване на поръчка за услуга или стока, потребителят дава своето изрично съгласие за обработка и трансфер на лични данни му за една или повече от следните цели:<br />
+а/ Включване на оценката на потребителя и неговото мнение в маркетингови проучвания чрез електронни методи &ndash; по e-mail или месинджър.<br />
+б/ Получаване на електронни съобщения за продукти, услуги и др. рекламни съобщения на всички притежавани устройства.<br />
+в/ Получаване на персонализирана реклама, която е съобразена с предпочитанията на потребителя. Персонализацията се извършва въз основа на оценка на данните за поведението на потребителя;<br />
+г/ Получаване на съобразени с поведението на потребителя и относими към неговите предпочитания персонализирани търговски предложения по и мейл, поща или месинджър. За тази цел данните за потреблението на потребителя въз основа на неговото покупателно поведение, участието му в рекламни акции, както и използването на сайта могат да бъдат предмет на анализ и прогноза за интересите на потребителя.<br />
+д/ Получаване на неперсонализирана реклама. Потребителите ще получават информация и за актуални продукти, услуги, инициативи и др. рекламни съобщения.</p>
+
+<p><strong>Декларация&nbsp;</strong>В процеса на обработка на лични данни&nbsp;<strong>ТОНЕР СТРИЙМ ООД</strong>&nbsp;спазва принципите на Европейското и национално законодателство, свързани със защитата на личните данни на лицата. Прилагайки пакет от организационни, технически и правни мерки, ние се стремим да гарантираме високо ниво на сигурност на личните данни, защита срещу нерегламентирана обработка, унищожаване или повреждане.</p>
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+EN версия OLD
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+<p>This Privacy Policy is an integral part of the Terms and Conditions of Toner Stream Ltd. and covers issues related to personal data, including what information we collect as a Data Controller, how we use it, and what rights users have in this regard.</p>
+
+<p>Toner Stream Ltd. acts as a data controller within the meaning of Regulation (EU) 2016/679 (hereinafter referred to as the &quot;Regulation&quot;).</p>
+
+<p><strong>Administrator Identification:</strong> Toner Stream Ltd.</p>
+
+<p>Registered office and management address: 14A Prof. Ivan Georgov Str., Sofia, Bulgaria Company Registration Number (EIK): 175329384, VAT Number: BG175329384</p>
+
+<p>CEO: Vasil Nikolov</p>
+
+<p>Toner Stream Ltd. treats as personal data any information that identifies a specific natural person or relates to a natural person through which the individual can be identified.</p>
+
+<p>Processing of personal data involves any action or set of actions that can be performed on personal data by automatic or other means.</p>
+
+<p><strong>I. How do we collect information about you?</strong></p>
+
+<ol>
+	<li>We collect personal data with the explicit consent of the individuals concerned. When you register on our website or use any of the forms, you voluntarily provide us with certain information, which we process and store. This information may include: name, middle name, surname, email address, phone number, date of birth, PINs, comments, and any other information you provide to us. You may choose to share with us location data or photos. We may opt to reduce the volume of data we store and process, depending on the processing purposes.</li>
+</ol>
+
+<p>When establishing contractual relationships for the purpose of performing the contract, we necessarily obtain the following personal data: name, middle name, surname, email, address, phone number.</p>
+
+<ol>
+	<li>If you decide to purchase a product or order a specific service through the website <strong><a href="https://www.tonerstream.com" target="_new">https://www.tonerstream.com/</a></strong>, we collect payment information, contact information (address and phone number), and details about the product or service you have ordered.</li>
+	<li>When connecting your profile to your profile on Facebook or Google or other third-party services, we receive information from these profiles. The information we receive from these services depends on the settings and privacy statements, so each individual should check what they are.</li>
+	<li>We also receive technical information when you use our website. Every time you use the website, mobile application, or other internet service, the system automatically creates and records certain information. Here are some of the categories of information we collect:</li>
+</ol>
+
+<p>a/ Data in registration files. When using the website, our servers record information (&quot;log data&quot;) that your browser automatically sends when you visit a website, or your mobile application automatically sends when you use it. This log data includes the Internet Protocol address, the address and activity of the websites you visit, searches, browser type and settings, date and time of your request, how you use the website, cookie data, and device data. If you want to get more details about the information we collect, please contact us through the contact form.</p>
+
+<p>b/ Cookie data. We also use cookies (small text files sent by your computer each time you visit our website) or similar technologies for data capture. When we use cookies or other similar technologies, we use session cookies (which continue until you close your browser) or persistent cookies (which continue until you or your browser delete them). For example, we use cookies to store your language preferences or other settings, so you don&#39;t have to set them every time you visit the site. Some of the cookies we use are associated with your profile (including information about you, such as the email address you have given us), while others are not. For more information about how we use cookies, please review our cookie policy.</p>
+
+<p>c/ Device information. In addition to the data in the logs, we collect information about the device through which you use our website, including device type, operating system, settings, unique device identifiers, and crash data that help us understand when something breaks. Whether we collect some or all of this information often depends on the type of device you use and its settings. For example, there are different types of information depending on whether you use a Mac or PC or iPhone or Android phone. To learn more about what information your device makes available to us, please check the manufacturer&#39;s or software provider&#39;s settings.</p>
+
+<p>Please note that the English version provided is a translation and for informational purposes only. In case of any discrepancies between the English version and the original Bulgarian version, the Bulgarian version shall prevail.</p>
+
+<p><strong>II. What We Do with the Information We Collect. Purposes and Processing Period:</strong></p>
+
+<p><strong>Purposes</strong></p>
+
+<p>Toner Stream Ltd. processes and stores the personal data mentioned above solely for the purpose of fulfilling its contractual obligations, specifically processing user requests, performing delivery, as well as for the following purposes:</p>
+
+<p>a/ Based on Article 6, (1)(b) of the Regulation - for the establishment of pre-contractual relations; b/ Based on Article 6, (1)(b) of the Regulation - for the performance of already established contractual obligations. c/ Based on Article 6, (1)(a) and Article 7 of the Regulation - for non-personalized advertising; d/ Based on Article 6, (1)(a) and Article 7 of the Regulation - for personalized advertising; e/ Based on Article 22, (2)(b), Article 6, (1)(a), and Article 7 of the Regulation - for performing personalized assessments of information; f/ Based on Article 6, (1)(e) - for marketing purposes. g/ Based on Article 6, (1)(e) of the Regulation - for retargeting related to marketing, remarketing, or optimization purposes.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Processing Period</strong></p>
+
+<p>The data is stored and processed if the user account is active and for 10 years after its deactivation or deletion, as well as, as long as it is needed to provide our services. In case the individual makes the respective request, the information is immediately destroyed.</p>
+
+<p>For the purpose of performing delivery, when requested by the user, Toner Stream Ltd. has the right to provide the abovementioned personal data or part of it to courier companies or national postal operators, including Econt, Speedy, Evropat. In this regard, the user may receive SMS or calls from these entities.</p>
+
+<div>
+<p><strong>III. Rights You Can Exercise Regarding Your Personal Data:</strong></p>
+
+<p>All rights are exercised, and the respective requests and notifications regarding data subjects&#39; rights are deposited through the <a href="/en/kontakti"><strong>CONTACT FORM FOR QUESTIONS RELATED TO PERSONAL DATA</strong></a> at the email address privacy@tonerstream.com. Alternatively, they can be sent by mail to the management address provided above. Requests are made in a manner that allows the identity of the applicant to be identified. Regarding some rights, technical capabilities for their exercise may apply, such as an Unsubscribe Button. In all cases, the administrator must respond to the request or address the declared right at the provided contact address or email within one month of receipt.</p>
+
+<p>According to the General Data Protection Regulation, the data subject has the right to:</p>
+
+<p>&bull; <strong>Information (regarding the processing of their personal data by the administrator):</strong> When there is a risk of a breach of the security of your personal data, the administrator must inform you of the nature of the breach and the measures taken to remedy it, as well as whether the supervisory authority has been notified of the breach.</p>
+
+<p>&bull; <strong>Access to their own personal data and the right to withdraw consent for processing:</strong> As a data subject, you have the right to request confirmation of whether your personal data is being processed and if so - to access your data and the following information: the purpose of data processing, the types of personal data, recipients of the data, the processing period. Access requests must be made in written/electronic form and addressed to the administrator. Also, you have the right to withdraw your consent for the processing of your personal data at any time.</p>
+
+<p>&bull; <strong>Rectification (if the data is inaccurate):</strong> As a data subject, you have the right to request the correction of your personal data if it is inaccurate/outdated. To do this, a separate request must be submitted. Your request will be answered by the administrator as follows &ndash; in writing, at the provided email address.</p>
+
+<p>&bull; <strong>Erasure of personal data (right to be forgotten):</strong> As a data subject, you have the right to be forgotten, i.e., to request the deletion of your personal data without undue delay, i.e., the administrator to erase your personal data from all systems and records where they are stored, including to notify all third parties/data processors to whom the data has been provided. A deletion request can be made on the grounds provided in the Regulation, including if any of the following grounds are present: personal data are no longer necessary for the purposes for which they were collected; you have withdrawn your consent; you have objected to the processing, and the processing is unlawful; personal data must be erased to comply with a legal obligation under Union or Member State law applicable to the administrator; personal data have been collected in connection with the offering of information society services. The administrator may refuse to erase personal data on the grounds set out in the Regulation - when the processing of the specific data is for the purpose of: exercising the right to freedom of expression and information; compliance with a legal obligation or the performance of a task carried out in the public interest or in the exercise of official authority; for the purposes of public health; archiving for purposes in the public interest, scientific, historical research, or statistical purposes; or for the establishment, exercise, or defence of legal claims.</p>
+
+<p>&bull; <strong>Limitation of Processing by the Administrator or Processor of Personal Data:</strong> As a data subject, you have the right to request that the administrator of your personal data limits its processing. Limitation is allowed in the following cases:</p>
+</div>
+
+<div style="margin-left:18.0pt;">
+<ul>
+	<li>When you believe that your personal data is inaccurate, in which case the limitation is for the period necessary for the administrator to verify the accuracy.</li>
+	<li>When the processing of your personal data is unlawful, but you do not want it to be deleted, only restricted in its use.</li>
+	<li>When the administrator no longer needs your personal data for processing purposes, but you, as the data subject, require them to establish, exercise, or defend legal claims.</li>
+	<li>When you have objected to the processing pending verification whether the legitimate grounds of the administrator override your interests. To do so, in the presence of any of the above conditions, you should submit a request.</li>
+</ul>
+</div>
+
+<div>
+<p>&bull; <strong>Portability of Personal Data, including between different administrators:</strong> The data subject has the right to portability - to receive the personal data concerning them, which they have provided to the administrator, in a structured, commonly used, and machine-readable format and has the right to transmit this data to another administrator without hindrance from the administrator to whom the personal data have been provided, when processing is based on consent or on a contractual obligation and the processing is carried out by automated means. When exercising their right to data portability, the data subject has the right to have the personal data transmitted directly from one administrator to another, where technically feasible.</p>
+
+<p>&bull; <strong>Objection to the Processing of Personal Data:</strong> As a data subject, you have the right to object to the processing of your personal data at any time, including when it is for direct marketing purposes. The administrator should justify whether they accept the objection or explain why they continue to process the personal data if they reject the objection.</p>
+
+<p>&bull; <strong>Right not to be subject to a decision based solely on automated processing:</strong> The data subject has the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning them or similarly significantly affects them. The data subject has the right to contest the automated decision at any time.</p>
+
+<p>&bull; <strong>Right to judicial or administrative remedy in case of infringement of data subject&#39;s rights:</strong> As a data subject, you have the right to lodge a complaint against the processing of your personal data or the violation of your rights concerning data protection with the competent supervisory authority - the Commission for Personal Data Protection, address: Sofia 1592, Prof. Tsvetan Lazarov Blvd. No. 2 (<a href="http://www.cpdp.bg/" target="_new">www.cpdp.bg</a>). Additionally, any person who has suffered material or non-material damage as a result of a breach of this regulation has the right to receive compensation from the administrator or processor of personal data for the damages incurred.</p>
+
+<p>Security:</p>
+
+<p>We have implemented numerous technical, legal, and organizational measures to protect the personal data of each individual. To prevent unauthorized access, we employ encryption procedures in certain areas. Additionally, we utilize SSL protocols to prevent the misuse of data by third parties. We do not share data with third parties unless necessary for delivering ordered goods.</p>
+
+<p>We may use the services of third parties who act as processors of personal data for the aforementioned processing purposes. These parties process personal data on our behalf and are required to comply with applicable data protection regulations. These parties are carefully selected by us and only have access to data necessary for providing the services they are engaged with and within the scope of the consent provided to us. In case these parties are outside the EU and do not meet the GDPR requirements, based on its status as a regulatory act, we will ensure the protection of personal data through contractual or other legal instruments. Additionally, personal data may be provided to state or municipal authorities exercising various forms of control within the law.</p>
+
+<p>Advertisement:</p>
+
+<p>By confirming the registration request for an account, confirming an order for a service or product, the user expressly consents to the processing and transfer of their personal data for one or more of the following purposes:</p>
+
+<p>a/ Inclusion of the user&#39;s assessment and opinion in marketing surveys through electronic methods - via email or messenger.</p>
+
+<p>b/ Receipt of electronic messages for products, services, and other advertising messages on all owned devices.</p>
+
+<p>c/ Receipt of personalized advertising tailored to the user&#39;s preferences. Personalization is based on an assessment of the user&#39;s behavior data;</p>
+
+<p>d/ Receipt of commercial offers relevant to the user&#39;s behavior and preferences via email, mail, or messenger. For this purpose, data on user consumption based on their purchasing behavior, participation in advertising campaigns, as well as website usage, may be subject to analysis and forecasting of user interests.</p>
+
+<p>e/ Receipt of non-personalized advertising. Users will receive information about current products, services, initiatives, and other advertising messages.</p>
+
+<p>&nbsp;</p>
+
+<p>Declaration:</p>
+
+<p>In the process of processing personal data, TONER STREAM LTD adheres to the principles of European and national legislation related to the protection of personal data. By applying a package of organizational, technical, and legal measures, we strive to ensure a high level of security of personal data, protection against unauthorized processing, destruction, or damage.</p>
+</div>
+
+
+
+
+
+
+ -->
+
+
+
