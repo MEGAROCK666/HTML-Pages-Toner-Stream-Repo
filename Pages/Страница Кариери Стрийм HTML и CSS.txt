@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="bg">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Кариери в TonerStream | Работа в B2B компания</title>
+  <meta name="description"
+    content="Кариери в TonerStream – стабилна B2B компания в сферата на печатните решения. Възможности за сервизни техници, търговци и офис специалисти.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    /* ===== CAREERS PAGE STYLES – TonerStream ===== */
+
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      color: #222;
+      line-height: 1.6;
+      background-color: #ffffff;
+      margin: 0;
+      padding: 0;
+    }
+
+    .careers-page {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
+    h1 {
+      font-size: 32px;
+      margin-bottom: 10px;
+      color: #000000;
+    }
+
+    h2 {
+      font-size: 24px;
+      margin-top: 40px;
+      margin-bottom: 15px;
+      color: #000000;
+      border-bottom: 2px solid #e5e5e5;
+      padding-bottom: 5px;
+    }
+
+    h3 {
+      font-size: 18px;
+      margin-top: 25px;
+      margin-bottom: 10px;
+      color: #000000;
+    }
+
+    p {
+      margin-bottom: 15px;
+      font-size: 16px;
+    }
+
+    ul {
+      margin: 10px 0 20px 20px;
+      padding: 0;
+    }
+
+    ul li {
+      margin-bottom: 8px;
+    }
+
+    .careers-hero {
+      background-color: #f5f7fa;
+      padding: 30px;
+      border-left: 5px solid #CB1219;
+      margin-bottom: 40px;
+    }
+
+    .careers-hero strong {
+      font-size: 18px;
+    }
+
+    .careers-section {
+      margin-bottom: 40px;
+    }
+
+    .job-opening {
+      background-color: #fafafa;
+      border: 1px solid #ddd;
+      padding: 25px;
+      margin-top: 30px;
+      border-radius: 4px;
+    }
+
+    .job-opening h2 {
+      border: none;
+      margin-top: 0;
+    }
+
+    a {
+      color: #1a73e8;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .careers-cta {
+      background-color: #4C4F55;
+      color: #ffffff;
+      padding: 30px;
+      margin-top: 50px;
+      border-radius: 4px;
+    }
+
+    .careers-cta a {
+      color: #ffffff;
+      font-weight: bold;
+    }
+
+    /* Центриране на снимката на екипа */
+    .team-photo {
+      text-align: center;
+      /* центрира img вътре в div */
+      margin: 20px 0;
+    }
+
+    .team-photo img {
+      max-width: 70%;
+      /* снимката няма да излиза извън контейнера */
+      height: auto;
+      /* запазва пропорциите */
+      border-radius: 5px;
+      /* леко закръгление за по-професионален вид */
+      display: inline-block;
+      /* за да се центрира коректно */
+    }
+
+    .job-opening {
+      background-color: #fafafa;
+      border: 1px solid #ddd;
+      padding: 25px;
+      margin-top: 30px;
+      border-radius: 4px;
+    }
+
+    .job-opening h2 {
+      border: none;
+      margin-top: 0;
+    }
+
+    @media (max-width: 768px) {
+      h1 {
+        font-size: 26px;
+      }
+
+      h2 {
+        font-size: 20px;
+      }
+
+      .careers-page {
+        padding: 20px 15px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="careers-page">
+
+    <section class="careers-hero">
+      <h2>Кариери в TonerStream</h2>
+      <p><strong>Професионализъм, стабилност и дългосрочно развитие</strong></p>
+      <p>
+        TonerStream е утвърдена българска компания, специализирана в доставка на консумативи за печат,
+        сервизно обслужване и цялостни решения за бизнес клиенти.
+        Работим с корпоративни партньори, като залагаме на качество, експертиза и коректност.
+      </p>
+    </section>
+
+    <section class="careers-section">
+      <h2>Кои сме ние</h2>
+      <p>
+        TonerStream е надежден B2B партньор с дългогодишно присъствие на българския пазар.
+        Компанията предлага:
+      </p>
+      <ul>
+        <li>оригинални и съвместими тонер касети;</li>
+        <li>сервиз и техническа поддръжка на печатаща техника;</li>
+        <li>консултации и оптимизация на разходите за печат;</li>
+        <li>професионално обслужване чрез онлайн платформа и търговски екип.</li>
+      </ul>
+
+      <div class="team-photo">
+        <img src="https://www.tonersupport.com/files_directory/root/ckeditor/images/Screenshot_3.jpg"
+          alt="Екип на TonerStream">
+      </div>
+
+
+    </section>
+
+    <section class="careers-section">
+      <h2>Защо да работите в TonerStream</h2>
+      <ul>
+        <li>стабилна и коректна работна среда;</li>
+        <li>ясни задължения и отговорности;</li>
+        <li>възможност за професионално развитие;</li>
+        <li>работа с реални бизнес клиенти и проекти;</li>
+        <li>екип от опитни специалисти;</li>
+        <li>възнаграждение, съобразено с приноса и опита.</li>
+      </ul>
+    </section>
+
+    <section class="careers-section">
+      <h2>Потенциални позиции</h2>
+      <p>
+        Към момента нямаме активни отворени позиции, но периодично търсим кандидати за следните роли:
+      </p>
+
+      <h3>Сервизни и технически специалисти</h3>
+      <ul>
+        <li>поддръжка и диагностика на печатаща техника;</li>
+        <li>сервизни посещения при клиенти;</li>
+        <li>техническа документация.</li>
+      </ul>
+
+      <h3>Търговски представители (B2B)</h3>
+      <ul>
+        <li>работа с корпоративни клиенти;</li>
+        <li>изготвяне на оферти и договори;</li>
+        <li>поддържане на дългосрочни партньорства.</li>
+      </ul>
+
+      <h3>Офис и административни позиции</h3>
+      <ul>
+        <li>координация на поръчки и клиенти;</li>
+        <li>работа с документи и вътрешни системи;</li>
+        <li>комуникация с партньори и доставчици.</li>
+      </ul>
+
+      <h3>Спедитори</h3>
+      <ul>
+        <li>обслужване на доставки и логистика в района на София-град;</li>
+        <li>координация на транспорт и маршрути;</li>
+        <li>поддържане на документи за транспорт и прием/предаване на стоки;</li>
+        <li>поддържане на безопасност и коректност при доставка.</li>
+      </ul>
+
+      <!-- === Шаблон за бъдещи обяви (деактивиран) === -->
+      <div class="job-opening">
+        <h2>Име на позицията</h2>
+        <p><strong>Локация:</strong> София</p>
+        <p><strong>Тип заетост:</strong> Пълно работно време</p>
+        <h3>Основни отговорности</h3>
+        <ul>
+          <li>Отговорност 1</li>
+          <li>Отговорност 2</li>
+          <li>Отговорност 3</li>
+        </ul>
+        <h3>Изисквания</h3>
+        <ul>
+          <li>Изискване 1</li>
+          <li>Изискване 2</li>
+          <li>Изискване 3</li>
+        </ul>
+        <h3>Какво предлагаме</h3>
+        <ul>
+          <li>Предимство 1</li>
+          <li>Предимство 2</li>
+          <li>Предимство 3</li>
+        </ul>
+        <p><strong>Кандидатстване:</strong> Изпратете CV на <a
+            href="mailto:office@tonerstream.com">office@tonerstream.com</a></p>
+      </div>
+      <!-- === Край на шаблона === -->
+    </section>
+
+    <section class="careers-section">
+      <h2>Какви качества ценим</h2>
+      <ul>
+        <li>отговорност и коректност;</li>
+        <li>умения за работа в екип;</li>
+        <li>техническа и/или търговска ориентация;</li>
+        <li>желание за учене и развитие;</li>
+        <li>организираност и внимание към детайла.</li>
+      </ul>
+    </section>
+
+    <section class="careers-section">
+      <h2>Кандидатстване</h2>
+      <p>
+        Ако проявявате интерес към работа в TonerStream, можете да изпратите своето CV и кратка информация
+        за професионалния си опит на следния имейл адрес:
+      </p>
+      <p>
+        <strong>Email:</strong>
+        <a href="mailto:office@tonerstream.com">office@tonerstream.com</a>
+      </p>
+      <p>Всички кандидатури се разглеждат при пълна конфиденциалност.</p>
+    </section>
+
+    <!-- <section class="careers-cta">
+      <h2>Интересувате се от кариера в TonerStream?</h2>
+      <p>
+        Изпратете своето CV на
+        <a href="mailto:office@tonerstream.com">office@tonerstream.com</a>
+        и ние ще се свържем с Вас при първа възможност.
+      </p>
+    </section> -->
+
+  </div>
+
+</body>
+
+</html>
