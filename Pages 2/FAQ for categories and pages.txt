@@ -1,0 +1,64 @@
+<hr />
+<h2 dir="ltr">
+FAQ – Често задавани въпроси</h2>
+<br />
+
+<ul>
+	<li dir="ltr">
+	<h3 dir="ltr"><strong>Какво означават буквите след модела на тонера (напр. TN-2421 и TN-3600XXL)?</strong></h3>
+
+	<p>Тези букви обозначават капацитета на тонер касетата. Букви като "XL" или "XXL" индикират, че касетата е с голям или изключително голям капацитет, позволяваща отпечатването на много повече страници (до 11 000 копия за определени модели) спрямо стандартния вариант.</p>
+	</li>
+	<li dir="ltr">
+	<h3 dir="ltr"><strong>Надеждни ли са стриймираните тонер касети за Brother?</strong></h3>
+
+	<p>Да, стриймираните (подновени оригинални) касети предлагат изключително високо качество на печат, което е напълно сравнимо с това на новите OEM консумативи. В TonerStream ги предлагаме на значително по-ниска цена, като гарантираме тяхната пълна съвместимост и безпроблемна работа.</p>
+	</li>
+	<li dir="ltr">
+	<h3 dir="ltr"><strong>Стриймираните тонер касети Brother водят ли до отпадане на гаранцията на принтера?</strong></h3>
+
+	<p>Използването на качествени алтернативни консумативи, предназначени за съответния модел на Brother, не води автоматично до отпадане на гаранцията. Важно е да избирате проверени доставчици като TonerStream, които гарантират качеството и безопасността на продуктите си.</p>
+	</li>
+        <li dir="ltr">
+	<h3 dir="ltr"><strong>Мога ли да сложа тонер касета Brother с голям капацитет (XL), ако досега съм ползвал стандартна?</strong></h3>
+
+	<p>Да, принтерите Brother са проектирани да работят безпроблемно както със стандартни, така и с касети с голям (XL) или изключително голям капацитет (например TN-3600XXL). Разликата е единствено в количеството тонер прах вътре, докато физическият размер на касетата остава същият.</p>
+	</li>
+	    <li dir="ltr">
+	<h3 dir="ltr"><strong>Какво означава "Нов ОЕМ модул" при тонер касетите Brother във вашия сайт?</strong></h3>
+
+	<p>OEM (Original Equipment Manufacturer) означава, че тонер касетата е чисто нова, произведена и запечатана директно от Brother. Това ви гарантира 100% фабрично качество, максимален брой копия и пълна съвместимост с вашето устройство.</p>
+	</li>
+</ul>
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+<hr />
+<h2 dir="ltr"><br />
+<br />
+Frequently Asked Questions</h2>
+<br />
+
+<ul>
+	<li dir="ltr">
+	<h3 dir="ltr"><strong>Can a printer be damaged if it is turned off but stored in a cold place?</strong></h3>
+
+	<p>Yes, prolonged storage in cold conditions can lead to condensation and corrosion of electronic components when the device is later powered on.</p>
+	</li>
+	<li dir="ltr">
+	<h3 dir="ltr"><strong>Does the type of paper used during the cold months matter?</strong></h3>
+
+	<p>Yes, lower-quality paper absorbs moisture more easily, which leads to feeding issues and reduced print quality.</p>
+	</li>
+	<li dir="ltr">
+	<h3 dir="ltr"><strong>Can frequent switching the printer on and off during winter cause problems?</strong></h3>
+
+	<p>Yes, frequent temperature changes increase stress on components and can shorten the device&rsquo;s lifespan.</p>
+	</li>
+</ul>

@@ -1,0 +1,89 @@
+<!-- Pop-up HTML -->
+<div id="consentPopup" class="popup-overlay">
+  <div class="popup-content">
+    <h2>За да продължите моля направете своя избор!</h2>
+    
+    <label class="switch">
+      <input type="checkbox" id="newsletterConsent">
+      <span class="slider round"></span>
+    </label>
+    <span>Съгласен съм да получавам бюлетините на www.tonerstream.com.</span>
+    <br><br>
+
+    <label class="switch">
+      <input type="checkbox" id="offersConsent">
+      <span class="slider round"></span>
+    </label>
+    <span>Искам да получавам съобщения за поръчки, оферти и персонални предложения.</span>
+    <br><br>
+
+    <button id="saveConsent">Запази избора</button>
+  </div>
+</div>
+
+<!-- CSS за стилизиране -->
+<style>
+.popup-overlay {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0,0,0,0.5);
+  display: none; 
+  justify-content: center; 
+  align-items: center;
+  z-index: 9999;
+}
+.popup-content {
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+  max-width: 500px;
+}
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px; height: 34px;
+}
+.switch input {display:none;}
+.slider {
+  position: absolute; cursor: pointer;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-color: #ccc; transition: .4s;
+  border-radius: 34px;
+}
+.slider:before {
+  position: absolute; content: "";
+  height: 26px; width: 26px;
+  left: 4px; bottom: 4px;
+  background-color: white; transition: .4s;
+  border-radius: 50%;
+}
+input:checked + .slider {background-color: #2196F3;}
+input:checked + .slider:before {transform: translateX(26px);}
+</style>
+
+<!-- JavaScript логика -->
+<script>
+// показване на popup при логване
+window.onload = function() {
+  const lastConsent = localStorage.getItem("consentDate");
+  const sixMonths = 1000* 60 * 60 * 24 * 30 * 6; // 6 месеца в ms
+
+  if (!lastConsent || (Date.now() - lastConsent) > sixMonths) {
+    document.getElementById("consentPopup").style.display = "flex";
+  }
+};
+
+document.getElementById("saveConsent").onclick = function() {
+  const newsletter = document.getElementById("newsletterConsent").checked;
+  const offers = document.getElementById("offersConsent").checked;
+
+  // тук трябва да извикате AJAX / API заявка към бекенда, за да запишете избора
+  console.log("Newsletter consent:", newsletter);
+  console.log("Offers consent:", offers);
+
+  localStorage.setItem("consentDate", Date.now()); // запис на датата
+  document.getElementById("consentPopup").style.display = "none";
+};
+</script>

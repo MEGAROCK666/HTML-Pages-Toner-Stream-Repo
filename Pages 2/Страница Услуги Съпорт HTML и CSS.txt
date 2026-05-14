@@ -1,0 +1,232 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+BG VERSION
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+<style>
+	.responsive-button {
+		display: inline-block;
+		background-color: #CB1219;
+		color: #FFFFFF;
+		border: none;
+		padding: 12px 24px;
+		cursor: pointer;
+		font-weight: bold;
+		border-radius: 8px;
+		transition: background-color 0.3s ease;
+		text-align: center;
+		white-space: normal;
+		max-width: 100%;
+		word-break: break-word;
+		font-size: 1.6rem;
+		line-height: 1.4;
+		text-decoration: none;
+	}
+
+	.responsive-button:hover {
+		background-color: #FF0000;
+		color: #FFFFFF;
+		text-decoration: none;
+	}
+
+	@media (max-width: 576px) {
+		.responsive-button {
+			font-size: 0.95rem;
+			padding: 10px 20px;
+		}
+	}
+</style>
+
+<p>Избегнете често срещани проблеми с вашия <strong>лазерен принтер</strong>, като планирате <strong>превантивна или
+		годишна поддръжка</strong>. Тя включва пълно почистване и подмяна на амортизираните части в регулярни интервали.
+	Редовната профилактика може значително да удължи живота на вашия принтер и да предотврати скъпи ремонти.</p>
+
+<h3>Признаци, че вашият принтер има нужда от ремонт</h3>
+
+<p>Забелязвате ли някой от тези проблеми?</p>
+
+<ul>
+	<li>Отпечатаните страници са зацапани или с линии;</li>
+	<li>Хартията често засяда;</li>
+	<li>Разпечатките излизат набръчкани или мръсни.</li>
+</ul>
+
+<p>Всички тези признаци показват, че е време за <strong>сервиз и ремонт на лазерния принтер</strong>. Изпичащият модул,
+	заедно с тонер касетите и барабанния модул, е ключов консуматив на всеки принтер. Своевременната диагностика и
+	профилактика могат да предотвратят
+	сериозни повреди и да гарантират безпроблемна работа. Производителите препоръчват <strong>поне веднъж годишно
+		профилактика на Изпичащия модул</strong>, за да се запази максималната
+	ефективност на устройството.</p>
+
+<p>&nbsp;</p>
+
+<h3 style="text-align:center">
+	<a href="/bg/kontakti" class="responsive-button"
+		onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=yes,scrollbars=no,dependent=no'); return false;">
+		Изпратете запитване
+	</a>
+</h3>
+
+<p>&nbsp;</p>
+
+<h3>Защо е важна редовната поддръжка на принтери?</h3>
+
+<p>Когато принтерите не получават навременна поддръжка, рискът от по-чести повреди и скъпи ремонти се увеличава. Както
+	всяка техника, и <strong>лазерните принтери</strong> имат нужда от грижа, за да се удължи животът им и да се намалят
+	разходите.</p>
+
+<p>Редовната профилактика:</p>
+
+<ul>
+	<li>намалява степента на износване,</li>
+	<li>оптимизира производителността,</li>
+	<li>гарантира по-дълга и безпроблемна работа на машината.</li>
+</ul>
+
+<h3>Нашият ангажимент към вас</h3>
+
+<p>Като наши клиенти ще получите напомняне за годишна поддръжка, за да планирате удобен момент за сервиз. Ако вашият
+	бизнес е в <strong>период на високо натоварване</strong>, ще ви осигурим допълнителна подкрепа &ndash; включително
+	<strong>безплатен заместващ принтер</strong>, докато вашият е в ремонт.
+</p>
+
+<h3>Защо да изберете Тонер Съпорт ООД?</h3>
+
+<ul>
+	<li>Професионална диагностика и профилактика,</li>
+	<li>Превенция на скъпи и некачествени ремонти,</li>
+	<li>Индивидуален подход за всеки бизнес,</li>
+	<li>Поддръжка и консултации за дългосрочна надеждност на принтерите.</li>
+</ul>
+
+<p><strong>Тонер Съпорт ООД</strong> е вашият доверен партньор за <strong>услуги за принтери и тонер касети</strong>.
+</p>
+
+<p>Готови ли сте да осигурите безпроблемната работа на вашите устройства?<br />
+	Свържете се с нас за <strong>безплатна консултация или заявка за поддръжка</strong>.</p>
+
+<p>&nbsp;</p>
+
+<h3 style="text-align:center">
+	<a href="/bg/kontakti" class="responsive-button"
+		onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=yes,scrollbars=no,dependent=no'); return false;">
+		Свържете се с нас
+	</a>
+</h3>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+EN VERSION
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+<style>
+	.responsive-button {
+		display: inline-block;
+		background-color: #CB1219;
+		color: #FFFFFF;
+		border: none;
+		padding: 12px 24px;
+		cursor: pointer;
+		font-weight: bold;
+		border-radius: 8px;
+		transition: background-color 0.3s ease;
+		text-align: center;
+		white-space: normal;
+		max-width: 100%;
+		word-break: break-word;
+		font-size: 1.6rem;
+		line-height: 1.4;
+		text-decoration: none;
+	}
+
+	.responsive-button:hover {
+		background-color: #FF0000;
+		color: #FFFFFF;
+		text-decoration: none;
+	}
+
+	@media (max-width: 576px) {
+		.responsive-button {
+			font-size: 0.95rem;
+			padding: 10px 20px;
+		}
+	}
+</style>
+
+<p>Avoid common problems with your <strong>laser printer</strong> by scheduling <strong>preventive or annual
+		maintenance</strong>. This includes thorough cleaning and replacement of worn-out parts at regular intervals.
+	Regular servicing can significantly extend the lifespan of your printer and prevent costly repairs.</p>
+
+<h3>Signs that your printer needs repair</h3>
+
+<p>Do you notice any of these issues?</p>
+
+<ul>
+	<li>Printed pages are smudged or have lines;</li>
+	<li>Paper frequently jams;</li>
+	<li>Printouts come out wrinkled or dirty.</li>
+</ul>
+
+<p>All these signs indicate that it’s time for <strong>laser printer servicing and repair</strong>. The fuser unit,
+	together with toner cartridges and the drum unit, is a key consumable of every printer. Timely diagnostics and
+	preventive maintenance can prevent serious damage and ensure smooth operation. Manufacturers recommend <strong>at
+		least annual maintenance of the fuser unit</strong> to maintain the device’s maximum efficiency.</p>
+
+<p>&nbsp;</p>
+
+<h3 style="text-align:center">
+	<a href="/en/kontakti" class="responsive-button"
+		onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=yes,scrollbars=no,dependent=no'); return false;">
+		Send an request
+	</a>
+</h3>
+
+<p>&nbsp;</p>
+
+<h3>Why is regular printer maintenance important?</h3>
+
+<p>When printers do not receive timely maintenance, the risk of frequent breakdowns and expensive repairs increases.
+	Like any piece of equipment, <strong>laser printers</strong> need proper care to extend their lifespan and reduce
+	costs.</p>
+
+<p>Regular maintenance helps to:</p>
+
+<ul>
+	<li>reduce wear and tear,</li>
+	<li>optimize performance,</li>
+	<li>ensure longer and trouble-free operation.</li>
+</ul>
+
+<h3>Our commitment to you</h3>
+
+<p>As our client, you will receive a reminder for annual maintenance so you can plan a convenient time for service. If
+	your business is in a <strong>peak workload period</strong>, we will provide additional support – including a
+	<strong>free replacement printer</strong> while yours is being repaired.
+</p>
+
+<h3>Why choose Toner Support Ltd.?</h3>
+
+<ul>
+	<li>Professional diagnostics and preventive maintenance,</li>
+	<li>Prevention of costly and poor-quality repairs,</li>
+	<li>Individual approach for every business,</li>
+	<li>Ongoing support and consulting for long-term printer reliability.</li>
+</ul>
+
+<p><strong>Toner Support Ltd.</strong> is your trusted partner for <strong>printer and toner cartridge
+		services</strong>.</p>
+
+<p>Ready to ensure the trouble-free operation of your devices?<br />
+	Contact us for a <strong>free consultation or service request</strong>.</p>
+
+<p>&nbsp;</p>
+
+<h3 style="text-align:center">
+	<a href="/en/kontakti" class="responsive-button"
+		onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=yes,scrollbars=no,dependent=no'); return false;">
+		Contact us
+	</a>
+</h3>

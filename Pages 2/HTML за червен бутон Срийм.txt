@@ -1,0 +1,166 @@
+Бутони - правоъгълни
+
+1.Изпратете запитване (BG)kontakti
+
+<h3 style="text-align:center">
+  <a href="/bg/kontakti" onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=yes,scrollbars=no,dependent=no'); return false;">
+    <input 
+      name="Изпратете запитване" 
+      type="button" 
+      value="Изпратете запитване" 
+      style="background-color:#CB1219; color:#FFFFFF; border:none; padding:10px 20px; cursor:pointer; font-weight:bold;" 
+    />
+  </a>
+</h3>
+
+2. Свържете се с нас (BG)kontakti
+
+<h3 style="text-align:center">
+  <a href="/bg/kontakti" onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=yes,scrollbars=no,dependent=no'); return false;">
+    <input 
+      name="Свържете се с нас" 
+      type="button" 
+      value="Свържете се с нас" 
+      style="background-color:#CB1219; color:#FFFFFF; border:none; padding:10px 20px; cursor:pointer; font-weight:bold;" 
+    />
+  </a>
+</h3>
+
+3. Send your request (EN)kontakti
+
+<h3 style="text-align:center">
+  <a href="/en/kontakti" onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=yes,scrollbars=no,dependent=no'); return false;">
+    <input 
+      name="Send your request" 
+      type="button" 
+      value="Send your request" 
+      style="background-color:#CB1219; color:#FFFFFF; border:none; padding:10px 20px; cursor:pointer; font-weight:bold;" 
+    />
+  </a>
+</h3>
+
+4. Contact us (EN)kontakti
+
+<h3 style="text-align:center">
+  <a href="/en/kontakti" onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=yes,scrollbars=no,dependent=no'); return false;">
+    <input 
+      name="Contact us" 
+      type="button" 
+      value="Contact us" 
+      style="background-color:#CB1219; color:#FFFFFF; border:none; padding:10px 20px; cursor:pointer; font-weight:bold;" 
+    />
+  </a>
+</h3>
+
+
+Бутони със заоблени ъгли и промяна на цвета. (стр. Услуги)
+
+1.Изпратете запитване (BG)kontakti
+
+<h3 style="text-align:center">
+  <a href="/bg/kontakti" onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=yes,scrollbars=no,dependent=no'); return false;">
+    <input 
+      name="Изпратете запитване" 
+      type="button" 
+      value="Изпратете запитване" 
+      style="background-color:#CB1219; color:#FFFFFF; border:none; padding:12px 24px; cursor:pointer; font-weight:bold; border-radius:8px; transition: background-color 0.3s ease;"
+      onmouseover="this.style.backgroundColor='#FF0000';"
+      onmouseout="this.style.backgroundColor='#cc0000';"
+    />
+  </a>
+</h3>
+
+2. Свържете се с нас (BG)kontakti
+
+<h3 style="text-align:center">
+  <a href="/bg/kontakti" onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=yes,scrollbars=no,dependent=no'); return false;">
+    <input 
+      name="Свържете се с нас" 
+      type="button" 
+      value="Свържете се с нас" 
+      style="background-color:#CB1219; color:#FFFFFF; border:none; padding:12px 24px; cursor:pointer; font-weight:bold; border-radius:8px; transition: background-color 0.3s ease;"
+      onmouseover="this.style.backgroundColor='#FF0000';"
+      onmouseout="this.style.backgroundColor='#cc0000';"
+    />
+  </a>
+</h3>
+
+3. Send your request (EN)kontakti
+
+<h3 style="text-align:center">
+  <a href="/en/kontakti" onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=yes,scrollbars=no,dependent=no'); return false;">
+    <input 
+      name="Send your request" 
+      type="button" 
+      value="Send your request" 
+      style="background-color:#CB1219; color:#FFFFFF; border:none; padding:12px 24px; cursor:pointer; font-weight:bold; border-radius:8px; transition: background-color 0.3s ease;"
+      onmouseover="this.style.backgroundColor='#FF0000';"
+      onmouseout="this.style.backgroundColor='#cc0000';"
+    />
+  </a>
+</h3>
+
+4. Contact us (EN)kontakti
+
+<h3 style="text-align:center">
+  <a href="/en/kontakti" onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=yes,scrollbars=no,dependent=no'); return false;">
+    <input 
+      name="Contact us" 
+      type="button" 
+      value="Contact us" 
+      style="background-color:#CB1219; color:#FFFFFF; border:none; padding:12px 24px; cursor:pointer; font-weight:bold; border-radius:8px; transition: background-color 0.3s ease;"
+      onmouseover="this.style.backgroundColor='#FF0000';"
+      onmouseout="this.style.backgroundColor='#cc0000';"
+    />
+  </a>
+</h3>
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+BUTTON CLASS RESPONSIVE-BUTTON
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<style>
+    .responsive-button {
+        display: inline-block;
+        background-color: #CB1219;
+        color: #FFFFFF;
+        border: none;
+        padding: 12px 24px;
+        cursor: pointer;
+        font-weight: bold;
+        border-radius: 8px;
+        transition: background-color 0.3s ease;
+        text-align: center;
+        white-space: normal;
+        max-width: 100%;
+        word-break: break-word;
+        font-size: 1.6rem;
+        line-height: 1.4;
+        text-decoration: none;
+    }
+
+    .responsive-button:hover {
+        background-color: #FF0000;
+		color: #FFFFFF;
+		text-decoration: none;
+    }
+
+    @media (max-width: 576px) {
+        .responsive-button {
+            font-size: 0.95rem;
+            padding: 10px 20px;
+        }
+    }
+</style>
+
+
+
+<h3 style="text-align:center">
+    <a href="/bg/uslugi" class="responsive-button"
+        onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=yes,scrollbars=no,dependent=no'); return false;">
+        Научи повече за нашите услуги
+    </a>
+</h3>
