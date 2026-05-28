@@ -1,0 +1,748 @@
+<!DOCTYPE html>
+<html lang="bg">
+
+<head>
+  <meta charset="UTF-8">
+
+  <!-- SEO Title -->
+  <title>Официални сертификати и партньорства | TonerStream</title>
+
+  <!-- SEO Meta Description -->
+  <meta name="description"
+    content="TonerStream е дъщерна марка на Toner Support ООД — производител с ISO 9001:2015, ISO 14001:2015, членство в ETIRA и над 15 години опит. Разгледайте нашите сертификати и условия за бизнес партньорство.">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://www.tonerstream.com/bg/partnyorstvo">
+
+  <!-- Responsive -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    /* =========================================================
+       ОСНОВНИ НАСТРОЙКИ
+       ========================================================= */
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.7;
+      color: #222;
+      background: #fff;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    img {
+      max-width: 100%;
+      display: block;
+    }
+
+    .container {
+      width: 90%;
+      max-width: 1280px;
+      margin: auto;
+    }
+
+    section {
+      padding: 80px 0;
+    }
+
+    h1,
+    h2,
+    h3 {
+      line-height: 1.3;
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      font-size: 48px;
+    }
+
+    h2 {
+      font-size: 36px;
+      margin-bottom: 40px;
+    }
+
+    h3 {
+      font-size: 24px;
+    }
+
+    p {
+      margin-bottom: 20px;
+    }
+
+    /* =========================================================
+       HERO SECTION
+       ========================================================= */
+
+    .hero {
+      background: #f5f7fa;
+      text-align: center;
+      padding: 100px 0;
+    }
+
+    .hero-subtitle {
+      max-width: 900px;
+      margin: 20px auto 50px;
+      font-size: 20px;
+      color: #555;
+    }
+
+    /* Лента с лога */
+    .logo-bar {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 20px;
+      margin-bottom: 60px;
+    }
+
+    .logo-item {
+      background: #fff;
+      padding: 25px;
+      border-radius: 12px;
+      border: 1px solid #ddd;
+
+      /* Сиво по подразбиране */
+      filter: grayscale(100%);
+
+      transition: all 0.3s ease;
+    }
+
+    /* При hover се оцветяват */
+    .logo-item:hover {
+      filter: grayscale(0%);
+      transform: translateY(-4px);
+    }
+
+    /* Counters */
+    .hero-counters {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 30px;
+    }
+
+    .counter-box {
+      background: #fff;
+      padding: 30px;
+      border-radius: 12px;
+      border: 1px solid #eee;
+    }
+
+    .counter-number {
+      font-size: 42px;
+      font-weight: bold;
+      color: #c40000;
+    }
+
+    /* =========================================================
+       SECTION: КОИ СМЕ НИЕ
+       ========================================================= */
+
+    .about-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 50px;
+      align-items: center;
+    }
+
+    /* Корпоративна схема */
+    .company-structure {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .company-card {
+      width: 100%;
+      padding: 30px;
+      border: 1px solid #ddd;
+      border-radius: 12px;
+      background: #fafafa;
+      text-align: center;
+    }
+
+    .arrow {
+      font-size: 42px;
+      color: #c40000;
+    }
+
+    /* =========================================================
+       CERTIFICATES
+       ========================================================= */
+
+    .certificate-item {
+      display: grid;
+      grid-template-columns: 240px 1fr;
+      gap: 40px;
+      margin-bottom: 80px;
+      align-items: start;
+    }
+
+    /* Thumbnail */
+    .certificate-thumb img {
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      transition: 0.3s;
+    }
+
+    .certificate-thumb img:hover {
+      transform: scale(1.02);
+    }
+
+    .certificate-meta {
+      margin-top: 20px;
+    }
+
+    .certificate-meta li {
+      margin-bottom: 10px;
+    }
+
+    /* =========================================================
+       PARTNERS
+       ========================================================= */
+
+    .partners-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 30px;
+      margin-top: 50px;
+    }
+
+    .partner-card {
+      border: 1px solid #ddd;
+      border-radius: 12px;
+      padding: 30px;
+      background: #fff;
+    }
+
+    /* =========================================================
+       B2B SECTION
+       ========================================================= */
+
+    .b2b-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 40px;
+      margin-bottom: 60px;
+    }
+
+    .b2b-table th,
+    .b2b-table td {
+      border: 1px solid #ddd;
+      padding: 18px;
+      text-align: left;
+    }
+
+    .b2b-table th {
+      background: #f5f5f5;
+    }
+
+    /* Streaming Steps */
+    .steps-grid {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 20px;
+      margin-top: 40px;
+    }
+
+    .step-box {
+      border: 1px solid #ddd;
+      border-radius: 12px;
+      padding: 20px;
+      text-align: center;
+      background: #fafafa;
+    }
+
+    .step-number {
+      width: 50px;
+      height: 50px;
+      margin: auto auto 15px;
+      border-radius: 50%;
+      background: #c40000;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: bold;
+    }
+
+    /* =========================================================
+       CTA SECTION
+       ========================================================= */
+
+    .cta-section {
+      background: #111;
+      color: #fff;
+      text-align: center;
+    }
+
+    .cta-buttons {
+      margin-top: 40px;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      padding: 16px 28px;
+      border-radius: 8px;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+
+    .btn-primary {
+      background: #c40000;
+      color: #fff;
+    }
+
+    .btn-primary:hover {
+      background: #900000;
+    }
+
+    .btn-secondary {
+      border: 2px solid #fff;
+      color: #fff;
+    }
+
+    .btn-secondary:hover {
+      background: #fff;
+      color: #111;
+    }
+
+    /* =========================================================
+       B2B FORM
+       ========================================================= */
+
+    .b2b-form {
+      max-width: 700px;
+      margin: 60px auto 0;
+      text-align: left;
+    }
+
+    .form-group {
+      margin-bottom: 20px;
+    }
+
+    .form-group label {
+      display: block;
+      margin-bottom: 8px;
+      font-weight: bold;
+    }
+
+    .form-group input,
+    .form-group select,
+    .form-group textarea {
+      width: 100%;
+      padding: 14px;
+      border-radius: 8px;
+      border: none;
+    }
+
+    textarea {
+      min-height: 140px;
+      resize: vertical;
+    }
+
+    /* =========================================================
+       RESPONSIVE
+       ========================================================= */
+
+    @media(max-width: 992px) {
+
+      .logo-bar,
+      .hero-counters,
+      .partners-grid,
+      .steps-grid,
+      .about-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .certificate-item {
+        grid-template-columns: 1fr;
+      }
+
+      h1 {
+        font-size: 36px;
+      }
+
+      h2 {
+        font-size: 30px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- =========================================================
+       HERO SECTION
+       Само един H1 за цялата страница
+       ========================================================= -->
+
+  <section class="hero">
+
+    <div class="container">
+
+      <h1>Сертификати и партньорства</h1>
+
+      <p class="hero-subtitle">
+        Зад марката TonerStream стои Toner Support ООД — производител с над 15 години опит,
+        международни сертификати и членство в европейска браншова асоциация.
+      </p>
+
+      <!-- ЛОГО ЛЕНТА -->
+      <!-- Препоръчително е логата да са SVG/WebP -->
+
+      <div class="logo-bar">
+
+        <div class="logo-item">
+          <img src="images/iso-9001.svg" alt="ISO 9001">
+        </div>
+
+        <div class="logo-item">
+          <img src="images/iso-14001.svg" alt="ISO 14001">
+        </div>
+
+        <div class="logo-item">
+          <img src="images/etira.svg" alt="ETIRA">
+        </div>
+
+        <div class="logo-item">
+          <img src="images/static-control.svg" alt="Static Control">
+        </div>
+
+      </div>
+
+      <!-- COUNTERS -->
+
+      <div class="hero-counters">
+
+        <div class="counter-box">
+          <div class="counter-number">15+</div>
+          <p>години опит</p>
+        </div>
+
+        <div class="counter-box">
+          <div class="counter-number">3 000+</div>
+          <p>артикула в наличност</p>
+        </div>
+
+        <div class="counter-box">
+          <div class="counter-number">1 200 кв.м.</div>
+          <p>производствена база</p>
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+  <!-- =========================================================
+       SECTION: КОИ СМЕ НИЕ
+       ========================================================= -->
+
+  <section>
+
+    <div class="container">
+
+      <h2>Кои сме ние: TonerStream и Toner Support</h2>
+
+      <div class="about-grid">
+
+        <div>
+
+          <p>
+            TonerStream е B2C марката на
+            <a href="/bg/za-nas">Toner Support ООД</a>
+            — българска компания, основана през 2008 г.
+          </p>
+
+          <p>
+            Toner Support се занимава с производство и B2B дистрибуция —
+            включително собствената марка BLACKBOARD и вносителска дейност
+            с над 3 000 артикула.
+          </p>
+
+          <p>
+            TonerStream обслужва крайните клиенти и малките офиси чрез
+            <a href="/bg/striymirane">стриймирани тонер касети</a>
+            и директна онлайн продажба.
+          </p>
+
+        </div>
+
+        <!-- Визуализация на корпоративната връзка -->
+
+        <div class="company-structure">
+
+          <div class="company-card">
+            <h3>Toner Support ООД</h3>
+            <p>Производство • B2B • BLACKBOARD</p>
+          </div>
+
+          <div class="arrow">↓</div>
+
+          <div class="company-card">
+            <h3>TonerStream</h3>
+            <p>Стриймиране • B2C • Онлайн магазин</p>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+  <!-- =========================================================
+       CERTIFICATES SECTION
+       ========================================================= -->
+
+  <section>
+
+    <div class="container">
+
+      <h2>Сертификати и акредитации</h2>
+
+      <!-- =====================================================
+           CERTIFICATE ITEM
+           ===================================================== -->
+
+      <div class="certificate-item">
+
+        <!-- Thumbnail -->
+        <!-- При клик може да се отвори lightbox -->
+
+        <div class="certificate-thumb">
+
+          <a href="images/iso-9001-full.jpg" target="_blank">
+
+            <img src="images/iso-9001-thumb.jpg"
+              alt="ISO 9001:2015 сертификат на Toner Support ООД, валиден до ноември 2028">
+
+          </a>
+
+        </div>
+
+        <div>
+
+          <h3>ISO 9001:2015 — Управление на качеството</h3>
+
+          <ul class="certificate-meta">
+            <li><strong>Орган:</strong> URS (United Registrar of Systems)</li>
+            <li><strong>Номер:</strong> 61277/A/0001/UK/En</li>
+            <li><strong>Валиден до:</strong> 06 ноември 2028 г.</li>
+          </ul>
+
+          <p>
+            Системата за управление на качеството на Toner Support
+            отговаря на международния стандарт ISO 9001:2015.
+          </p>
+
+        </div>
+
+      </div>
+
+      <!-- Тук се добавят и останалите сертификати
+           със същата структура -->
+
+    </div>
+
+  </section>
+
+  <!-- =========================================================
+       PARTNERS SECTION
+       ========================================================= -->
+
+  <section>
+
+    <div class="container">
+
+      <h2>Членства и партньорства</h2>
+
+      <div class="partners-grid">
+
+        <div class="partner-card">
+          <img src="images/static-control-logo.svg" alt="Static Control">
+          <h3>Static Control Components Inc.</h3>
+          <p>Authorised Reseller за България.</p>
+        </div>
+
+        <div class="partner-card">
+          <img src="images/alphachem-logo.svg" alt="AlphaChem">
+          <h3>AlphaChem GmbH</h3>
+          <p>Доставчик на тонер прах и химикали.</p>
+        </div>
+
+        <div class="partner-card">
+          <img src="images/jadi-logo.svg" alt="Jadi Imaging">
+          <h3>Jadi Imaging Holdings</h3>
+          <p>Производител на тонер прах.</p>
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+  <!-- =========================================================
+       B2B PROGRAM
+       ========================================================= -->
+
+  <section>
+
+    <div class="container">
+
+      <h2>Програма за бизнес клиенти (B2B)</h2>
+
+      <!-- Сравнителна таблица -->
+
+      <table class="b2b-table">
+
+        <tr>
+          <th>Текущо</th>
+          <th>Препоръчано</th>
+        </tr>
+
+        <tr>
+          <td>Прозрачен и открит диалог</td>
+          <td>Персонален акаунт мениджър</td>
+        </tr>
+
+        <tr>
+          <td>Качествени продукти</td>
+          <td>ISO сертифицирано качество</td>
+        </tr>
+
+        <tr>
+          <td>Професионализъм</td>
+          <td>30 специалисти сервизен екип</td>
+        </tr>
+
+      </table>
+
+      <!-- СТРИЙМИРАНЕ -->
+
+      <h3>Как работи услугата „Стриймиране“</h3>
+
+      <div class="steps-grid">
+
+        <div class="step-box">
+          <div class="step-number">1</div>
+          <p>Тестваме</p>
+        </div>
+
+        <div class="step-box">
+          <div class="step-number">2</div>
+          <p>Почистваме</p>
+        </div>
+
+        <div class="step-box">
+          <div class="step-number">3</div>
+          <p>Подменяме</p>
+        </div>
+
+        <div class="step-box">
+          <div class="step-number">4</div>
+          <p>Зареждаме</p>
+        </div>
+
+        <div class="step-box">
+          <div class="step-number">5</div>
+          <p>Финален тест</p>
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+  <!-- =========================================================
+       CTA SECTION
+       ========================================================= -->
+
+  <section class="cta-section">
+
+    <div class="container">
+
+      <h2>Доверете се на TonerStream</h2>
+
+      <p>
+        Продукти с доказано ISO качество, произведени от първата
+        българска компания — член на ETIRA.
+      </p>
+
+      <div class="cta-buttons">
+
+        <a href="/bg/kontakti" class="btn btn-primary">
+          Свържете се с нас
+        </a>
+
+        <a href="/bg/uslugi" class="btn btn-secondary">
+          Разгледайте услугите
+        </a>
+
+      </div>
+
+      <!-- =====================================================
+           B2B FORM
+           ===================================================== -->
+
+      <form class="b2b-form">
+
+        <div class="form-group">
+          <label>Фирма</label>
+          <input type="text">
+        </div>
+
+        <div class="form-group">
+          <label>Контактно лице</label>
+          <input type="text">
+        </div>
+
+        <div class="form-group">
+          <label>Имейл / Телефон</label>
+          <input type="text">
+        </div>
+
+        <div class="form-group">
+          <label>Тип запитване</label>
+
+          <select>
+            <option>Бизнес клиент</option>
+            <option>Дилър</option>
+            <option>Друго</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label>Съобщение</label>
+          <textarea></textarea>
+        </div>
+
+        <button class="btn btn-primary">
+          Изпратете запитването
+        </button>
+
+      </form>
+
+    </div>
+
+  </section>
+
+</body>
+
+</html>
