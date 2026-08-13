@@ -1,0 +1,36 @@
+.responsive-button {
+    display: inline-block;
+    background-color: #4A4D53;
+    color: #FFFFFF;
+    border: 1px solid #4A4D53;
+    padding: 12px 24px;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+    text-align: center;
+    white-space: normal;
+    max-width: 100%;
+    word-break: break-word;
+    font-size: 1.6rem;
+    line-height: 1.4;
+    text-decoration: none;
+}
+
+.responsive-button:hover {
+    background-color: #E3001E;
+    border-color: #434343;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.contact-button-wrapper {
+    text-align: center;
+}
+
+@media (max-width: 576px) {
+    .responsive-button {
+        font-size: 0.95rem;
+        padding: 10px 20px;
+    }
+}

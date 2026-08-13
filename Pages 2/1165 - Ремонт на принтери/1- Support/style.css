@@ -1,0 +1,215 @@
+:root {
+    --ts-green: #4A4D53;         /* main-color-3 */
+    --ts-green-dark: #434343;    /* main-color-22 */
+    --ts-green-soft: #F0F2F5;    /* main-color-2 */
+    --ts-accent: #EF9418;        /* main-color-4 */
+    --ts-ink: #383A3E;           /* main-color-25 */
+    --ts-muted: #6E7176;         /* main-color-20 */
+    --ts-line: #DBDBDB;          /* main-color-21 */
+    --ts-bg: #F6F7F9;            /* main-color-9 */
+    --ts-white: #FFFFFF;         /* main-color-1 */
+    --ts-shadow: 0 12px 34px rgba(0, 0, 0, 0.08);
+}
+
+body {
+    margin: 0;
+    color: var(--ts-ink);
+    background: var(--ts-bg);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.72;
+}
+
+.printer-service-page {
+    padding: 42px 0 64px;
+}
+
+.printer-service-page .container {
+    max-width: 1180px;
+}
+
+.service-intro {
+    margin-bottom: 24px;
+    padding: 26px 28px;
+    background: linear-gradient(90deg, var(--ts-green-soft), var(--ts-white));
+    border: 1px solid var(--ts-line);
+    border-left: 5px solid var(--ts-green);
+    border-radius: 10px;
+    box-shadow: var(--ts-shadow);
+}
+
+.service-intro p {
+    margin: 0;
+}
+
+.service-card {
+    margin-bottom: 22px;
+    padding: 26px 28px;
+    background: var(--ts-white);
+    border: 1px solid var(--ts-line);
+    border-radius: 10px;
+    box-shadow: var(--ts-shadow);
+}
+
+.service-card h2 {
+    margin: 0 0 18px;
+    padding-bottom: 12px;
+    color: var(--ts-ink);
+    border-bottom: 1px solid var(--ts-line);
+    font-size: 22px;
+    font-weight: 800;
+    line-height: 1.35;
+}
+
+.service-card h2::after {
+    content: "";
+    display: block;
+    width: 52px;
+    height: 3px;
+    margin-top: 11px;
+    background: var(--ts-green);
+    border-radius: 999px;
+}
+
+.service-card p {
+    margin: 0;
+    color: var(--ts-muted);
+}
+
+.service-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.service-list li {
+    position: relative;
+    padding: 11px 0 11px 26px;
+    border-bottom: 1px solid var(--ts-line);
+}
+
+.service-list li:last-child {
+    border-bottom: 0;
+}
+
+.service-list li::before {
+    content: "";
+    position: absolute;
+    top: 1.2em;
+    left: 3px;
+    width: 8px;
+    height: 8px;
+    background: var(--ts-accent);
+    border-radius: 50%;
+}
+
+.troubleshooting-list {
+    margin: 18px 0 0;
+    padding: 0;
+    list-style: none;
+    counter-reset: troubleshooting;
+}
+
+.troubleshooting-list li {
+    position: relative;
+    counter-increment: troubleshooting;
+    margin-bottom: 10px;
+    padding: 13px 16px 13px 54px;
+    background: #fbfcfc;
+    border: 1px solid var(--ts-line);
+    border-radius: 8px;
+}
+
+.troubleshooting-list li::before {
+    content: counter(troubleshooting);
+    position: absolute;
+    top: 11px;
+    left: 14px;
+    display: grid;
+    place-items: center;
+    width: 29px;
+    height: 29px;
+    color: var(--ts-white);
+    background: var(--ts-green);
+    border-radius: 7px;
+    font-size: 13px;
+    font-weight: 800;
+}
+
+.contact-button-wrapper {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.responsive-button {
+    display: inline-block;
+    max-width: 100%;
+    padding: 12px 28px;
+    color: var(--ts-white);
+    background-color: var(--ts-green);
+    border: 1px solid var(--ts-green);
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    font-weight: 700;
+    line-height: 1.4;
+    text-align: center;
+    text-decoration: none;
+    white-space: normal;
+    word-break: break-word;
+    transition: background-color 0.25s ease, border-color 0.25s ease, transform 0.25s ease;
+}
+
+.responsive-button:hover,
+.responsive-button:focus {
+    color: var(--ts-white);
+    background-color: #e3001e;
+    border-color: var(--ts-green-dark);
+    text-decoration: none;
+    transform: translateY(-1px);
+}
+
+@media (max-width: 576px) {
+    body {
+        font-size: 15px;
+    }
+
+    .printer-service-page {
+        padding: 24px 0 40px;
+    }
+
+    .service-intro,
+    .service-card {
+        padding: 20px 18px;
+    }
+
+    .service-card h2 {
+        font-size: 19px;
+    }
+
+    .responsive-button {
+        padding: 10px 20px;
+        font-size: 0.95rem;
+    }
+}
+
+@media print {
+    body {
+        color: #000;
+        background: #fff;
+    }
+
+    .printer-service-page {
+        padding: 0;
+    }
+
+    .service-intro,
+    .service-card {
+        break-inside: avoid;
+        box-shadow: none;
+    }
+
+    .contact-button-wrapper {
+        display: none;
+    }
+}

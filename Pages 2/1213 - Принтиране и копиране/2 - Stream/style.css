@@ -1,0 +1,118 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #000000;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+    h2 {
+      text-align: center;
+      /* color: #CB1219; */
+      margin-bottom: 20px;
+    }
+
+h3 {
+    margin-top: 40px;
+    color: #000000;
+    /* border-left: 6px solid #CB1219; */
+    padding-left: 10px;
+}
+
+    table {
+      width: 100%;
+      max-width: 1000px;
+      margin: 20px auto;
+      border-collapse: collapse;
+      background: #fff;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      border-radius: 10px;
+      overflow: hidden;
+    }
+
+    table thead {
+      background-color: #CB1219;
+      color: #fff;
+      font-size: 16px;
+    }
+
+    table th, table td {
+      padding: 15px 20px;
+      text-align: center;
+    }
+
+    table th:first-child,
+    table td:first-child {
+      text-align: left;
+    }
+
+    table tr:nth-child(even) {
+      background-color: #f9f9f9;
+    }
+
+    table thead tr:hover,    
+    table thead th:hover {
+      background-color: #CB1219 !important;
+      color: #fff !important;
+    }
+
+    table tr:hover {
+      background-color: #ffecec;
+    }
+
+    em {
+      color: #777;
+    }
+
+    ul {
+      list-style: disc;
+      padding-left: 30;
+    }
+
+    .btn-contact {
+      display: inline-block;
+      margin: 30px auto;
+      background-color: #CB1219;
+      color: #fff;
+      font-weight: bold;
+      text-decoration: none;
+      padding: 14px 30px;
+      border-radius: 8px;
+      transition: 0.3s ease;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    }
+
+    .btn-contact:hover {
+      background-color: #FF0000;
+      color: #FFFFFF;
+      text-decoration: none;
+    }
+
+    .btn-wrapper {
+      text-align: center;
+    }
+
+/* =========================================================
+   PRICE COLUMN ALIGNMENT
+   ========================================================= */
+
+table {
+    table-layout: fixed;
+}
+
+table th:first-child,
+table td:first-child {
+    width: 62%;
+    text-align: left;
+}
+
+table th:nth-child(2),
+table td:nth-child(2),
+table th:nth-child(3),
+table td:nth-child(3) {
+    width: 19%;
+    text-align: center;
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+}

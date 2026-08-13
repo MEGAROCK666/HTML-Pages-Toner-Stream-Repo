@@ -1,15 +1,15 @@
 :root {
-    --ts-primary: #3f9b46;
-    --ts-primary-dark: #2d7533;
-    --ts-primary-deep: #245f2a;
-    --ts-primary-soft: #eef8ef;
-    --ts-accent: #E3001E;
-    --ts-ink: #202832;
-    --ts-muted: #202832;
-    --ts-line: #dfe5e8;
-    --ts-bg: #f4f6f7;
-    --ts-white: #ffffff;
-    --ts-shadow: 0 10px 28px rgba(26, 42, 51, 0.08);
+    --ts-primary: #4A4D53;       /* main-color-3 */
+    --ts-primary-dark: #434343;  /* main-color-22 */
+    --ts-primary-deep: #383A3E;  /* main-color-25 */
+    --ts-primary-soft: #F0F2F5;  /* main-color-2 */
+    --ts-accent: #E3001E;        /* main-color-5 */
+    --ts-ink: #383A3E;           /* main-color-25 */
+    --ts-muted: #6E7176;         /* main-color-20 */
+    --ts-line: #DBDBDB;          /* main-color-21 */
+    --ts-bg: #F6F7F9;            /* main-color-9 */
+    --ts-white: #FFFFFF;         /* main-color-1 */
+    --ts-shadow: 0 10px 28px rgba(0, 0, 0, 0.08);
 }
 
 /* Scope all page-specific styles to prevent conflicts with
@@ -145,7 +145,7 @@
 }
 
 .ts-content .responsive-button:hover {
-    background: var(--ts-primary-dark);
+    background: #e3001E;
     border-color: var(--ts-primary-dark);
     box-shadow: 0 9px 22px rgba(45, 117, 51, 0.26);
     color: var(--ts-white);

@@ -1,0 +1,27 @@
+.service-icon {
+    height: 25px;
+    width: 25px;
+}
+
+.service-icon-narrow {
+    width: 21px;
+}
+
+.service-icon-quality {
+    width: 24px;
+}
+
+.contact-button-wrapper {
+    text-align: center;
+}
+
+.contact-input-button {
+    background-color: #CB1219;
+    color: #FFFFFF;
+    border: none;
+    padding: 12px 24px;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+}

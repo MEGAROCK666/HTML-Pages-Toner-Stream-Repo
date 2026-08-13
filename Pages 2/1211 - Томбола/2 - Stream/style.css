@@ -1,0 +1,318 @@
+:root {
+    --ts-red: #cb1219;
+    --ts-red-dark: #a90f15;
+    --ts-red-soft: #fff3f3;
+    --ts-dark: #202020;
+    --ts-text: #3a3a3a;
+    --ts-muted: #6f757b;
+    --ts-border: #e6e6e6;
+    --ts-bg: #f3f3f3;
+    --ts-white: #ffffff;
+    --ts-shadow: 0 10px 30px rgba(0, 0, 0, 0.07);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    color: var(--ts-text);
+    background: var(--ts-bg);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+.raffle-page {
+    padding: 42px 0 64px;
+}
+
+.raffle-page .container {
+    max-width: 1180px;
+}
+
+.raffle-page a {
+    color: var(--ts-red);
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.raffle-page a:hover,
+.raffle-page a:focus {
+    color: var(--ts-red-dark);
+    text-decoration: underline;
+}
+
+.raffle-hero {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 24px;
+    padding: 38px 42px;
+    color: #ffffff;
+    background: linear-gradient(135deg, #1d1d1d 0%, #2f2f2f 72%, #3b1517 100%);
+    border-radius: 8px;
+    box-shadow: var(--ts-shadow);
+}
+
+.raffle-hero::after {
+    content: "";
+    position: absolute;
+    top: -70px;
+    right: -45px;
+    width: 230px;
+    height: 230px;
+    border: 30px solid rgba(203, 18, 25, 0.30);
+    border-radius: 50%;
+}
+
+.raffle-hero > * {
+    position: relative;
+    z-index: 1;
+}
+
+.raffle-eyebrow {
+    display: inline-block;
+    margin-bottom: 14px;
+    padding: 7px 12px;
+    color: var(--ts-red);
+    background: #ffffff;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.raffle-hero h2 {
+    margin: 0 0 16px;
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 1.25;
+}
+
+.raffle-hero p {
+    max-width: 930px;
+    margin: 0;
+    color: rgba(255, 255, 255, 0.92);
+    font-size: 17px;
+}
+
+.raffle-card {
+    margin-bottom: 24px;
+    padding: 28px;
+    background: var(--ts-white);
+    border: 1px solid var(--ts-border);
+    border-radius: 8px;
+    box-shadow: var(--ts-shadow);
+}
+
+.raffle-card > h2,
+.raffle-draw__content h2 {
+    margin: 0 0 18px;
+    color: var(--ts-dark);
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 1.35;
+}
+
+.raffle-card > h2 {
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--ts-border);
+}
+
+.raffle-card > h2::after {
+    content: "";
+    display: block;
+    width: 54px;
+    height: 3px;
+    margin-top: 11px;
+    background: var(--ts-red);
+    border-radius: 999px;
+}
+
+.prize-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 18px;
+}
+
+.prize-card {
+    padding: 22px 20px;
+    background: #fafafa;
+    border: 1px solid var(--ts-border);
+    border-top: 4px solid var(--ts-red);
+    border-radius: 8px;
+}
+
+.prize-card--first {
+    background: var(--ts-red-soft);
+}
+
+.prize-number {
+    display: grid;
+    place-items: center;
+    width: 42px;
+    height: 42px;
+    margin-bottom: 14px;
+    color: #ffffff;
+    background: var(--ts-red);
+    border-radius: 50%;
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.prize-card h3 {
+    margin: 0 0 10px;
+    color: var(--ts-dark);
+    font-size: 19px;
+    font-weight: 800;
+}
+
+.prize-card p {
+    margin: 0;
+    color: var(--ts-muted);
+}
+
+.raffle-draw {
+    display: flex;
+    align-items: center;
+    gap: 22px;
+    background: var(--ts-red-soft);
+    border-color: #f0c7c9;
+    border-left: 5px solid var(--ts-red);
+}
+
+.raffle-draw__date {
+    display: grid;
+    flex: 0 0 130px;
+    place-items: center;
+    min-height: 76px;
+    padding: 10px;
+    color: #ffffff;
+    background: var(--ts-red);
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.raffle-draw__content {
+    min-width: 0;
+}
+
+.raffle-draw__content h2 {
+    margin-bottom: 8px;
+}
+
+.raffle-draw__content p {
+    margin: 0;
+}
+
+.raffle-contact {
+    text-align: center;
+}
+
+.raffle-contact p {
+    margin: 0 0 10px;
+}
+
+.raffle-contact p:last-child {
+    margin-bottom: 0;
+    font-size: 18px;
+}
+
+@media (max-width: 991.98px) {
+    .prize-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 767.98px) {
+    body {
+        font-size: 15px;
+    }
+
+    .raffle-page {
+        padding: 22px 0 40px;
+    }
+
+    .raffle-hero {
+        padding: 28px 22px;
+    }
+
+    .raffle-hero h2 {
+        font-size: 25px;
+    }
+
+    .raffle-hero p {
+        font-size: 15px;
+    }
+
+    .raffle-card {
+        padding: 20px 18px;
+    }
+
+    .raffle-card > h2,
+    .raffle-draw__content h2 {
+        font-size: 21px;
+    }
+
+    .raffle-draw {
+        align-items: flex-start;
+    }
+
+    .raffle-draw__date {
+        flex-basis: 110px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .raffle-draw {
+        display: block;
+    }
+
+    .raffle-draw__date {
+        margin-bottom: 16px;
+    }
+}
+
+@media print {
+    body {
+        color: #000000;
+        background: #ffffff;
+    }
+
+    .raffle-page {
+        padding: 0;
+    }
+
+    .raffle-hero,
+    .raffle-card,
+    .prize-card {
+        break-inside: avoid;
+        box-shadow: none;
+    }
+
+    .raffle-hero {
+        color: #000000;
+        background: #ffffff;
+        border: 1px solid #cccccc;
+    }
+
+    .raffle-hero h2,
+    .raffle-hero p {
+        color: #000000;
+    }
+
+    .raffle-hero::after,
+    .raffle-eyebrow {
+        display: none;
+    }
+
+    .raffle-page a {
+        color: #000000;
+        text-decoration: none;
+    }
+}

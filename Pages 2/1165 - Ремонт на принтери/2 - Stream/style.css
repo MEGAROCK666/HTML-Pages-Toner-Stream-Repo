@@ -1,0 +1,62 @@
+.text-center {
+    text-align: center;
+}
+
+.font-16 {
+    font-size: 16px;
+}
+
+.link-blue {
+    color: #0000CD;
+}
+
+.hero-service-image {
+    max-width: 500px;
+    width: 100%;
+}
+
+.icon-25 {
+    height: 25px;
+    width: 25px;
+}
+
+.icon-24x25 {
+    height: 24px;
+    width: 25px;
+}
+
+.icon-25x24 {
+    height: 25px;
+    width: 24px;
+}
+
+.icon-23x25 {
+    height: 23px;
+    width: 25px;
+}
+
+.icon-21x25 {
+    height: 21px;
+    width: 25px;
+}
+
+.icon-26x25 {
+    height: 26px;
+    width: 25px;
+}
+
+.ts-action-button {
+    background-color: #CB1219;
+    color: #FFFFFF;
+    border: none;
+    padding: 12px 24px;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+}
+
+.ts-action-button:hover {
+    background-color: #FF0000;
+    color: #FFFFFF;
+}

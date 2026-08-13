@@ -1,0 +1,47 @@
+.responsive-button {
+    display: inline-block;
+    background-color: #CB1219;
+    color: #FFFFFF;
+    border: none;
+    padding: 12px 24px;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+    text-align: center;
+    white-space: normal;
+    max-width: 100%;
+    word-break: break-word;
+    font-size: 1.6rem;
+    line-height: 1.4;
+    text-decoration: none;
+}
+
+.responsive-button:hover {
+    background-color: #FF0000;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.easystream-empty-column,
+.easystream-button-wrapper {
+    text-align: center;
+}
+
+.easystream-text-link {
+    color: #0000CD;
+}
+
+.icon-check { height: 23px; width: 25px; }
+.icon-print { height: 24px; width: 25px; }
+.icon-square { height: 25px; width: 25px; }
+.icon-delivery { height: 21px; width: 25px; }
+.icon-label { height: 22px; width: 25px; }
+.icon-shield { height: 25px; width: 21px; }
+
+@media (max-width: 576px) {
+    .responsive-button {
+        font-size: 0.95rem;
+        padding: 10px 20px;
+    }
+}
