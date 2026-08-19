@@ -8,7 +8,7 @@
 }
 
 /* Headings */
-h2 {
+.ts-content h2 {
     margin-top: 32px;
     margin-bottom: 16px;
     color: var(--ts-ink);
@@ -22,28 +22,28 @@ h2 {
 }
 
 /* Main text */
-p {
+.ts-content p {
     margin-top: 0;
     margin-bottom: 16px;
     color: var(--ts-muted);
     line-height: 1.75;
 }
 
-p strong,
-li strong {
+.ts-content p strong,
+.ts-content li strong {
     color: var(--ts-ink);
     font-weight: 700;
 }
 
 /* Lists */
-ul {
+.ts-content ul {
     margin-top: 0;
     margin-bottom: 24px;
     padding-left: 0;
     list-style: none;
 }
 
-ul li {
+.ts-content ul li {
     position: relative;
     margin-bottom: 10px;
     padding-left: 24px;
@@ -51,7 +51,7 @@ ul li {
     line-height: 1.65;
 }
 
-ul li::before {
+.ts-content ul li::before {
     content: "";
     position: absolute;
     top: 0.72em;
@@ -62,14 +62,14 @@ ul li::before {
     border-radius: 50%;
 }
 
-ul li a {
+.ts-content ul li a {
     color: var(--ts-ink);
     text-decoration: none;
     transition: color 0.2s ease;
 }
 
-ul li a:hover,
-ul li a:focus {
+.ts-content ul li a:hover,
+.ts-content ul li a:focus {
     color: var(--ts-red);
     text-decoration: underline;
     text-underline-offset: 3px;
@@ -144,7 +144,7 @@ ul li a:focus {
 }
 
 /* Subsection labels */
-p > strong:only-child {
+.ts-content p > strong:only-child {
     display: inline-block;
     margin-top: 8px;
     color: var(--ts-ink);
@@ -153,18 +153,18 @@ p > strong:only-child {
 
 /* Responsive */
 @media (max-width: 767.98px) {
-    h2 {
+    .ts-content h2 {
         margin-top: 26px;
         margin-bottom: 14px;
         font-size: 1.28rem;
     }
 
-    p {
+    .ts-content p {
         margin-bottom: 14px;
         line-height: 1.68;
     }
 
-    ul {
+    .ts-content ul {
         margin-bottom: 20px;
     }
 
@@ -176,11 +176,11 @@ p > strong:only-child {
 }
 
 @media (max-width: 575.98px) {
-    h2 {
+    .ts-content h2 {
         font-size: 1.2rem;
     }
 
-    ul li {
+    .ts-content ul li {
         padding-left: 21px;
     }
 
