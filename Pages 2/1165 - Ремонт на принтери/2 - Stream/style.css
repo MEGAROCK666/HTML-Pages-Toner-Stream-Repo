@@ -60,3 +60,50 @@
     background-color: #FF0000;
     color: #FFFFFF;
 }
+
+
+
+
+/* ==========================================
+   BUTTONS
+   ========================================== */
+
+.responsive-button {
+    display: inline-block;
+    max-width: 100%;
+    padding: 13px 26px;
+    color: #fff;
+    background: #CB1219;
+    border: 2px solid #CB1219;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.4;
+    text-align: center;
+    text-decoration: none;
+    white-space: normal;
+    transition: background-color .25s ease, border-color .25s ease, transform .25s ease;
+}
+
+.responsive-button:hover,
+.responsive-button:focus {
+    color: #fff;
+    background: #a90f15;
+    border-color: #a90f15;
+    text-decoration: none;
+    transform: translateY(-1px);
+}
+
+.responsive-button--outline {
+    color: #fff;
+    background: transparent;
+    border-color: rgba(255, 255, 255, .8);
+}
+
+.responsive-button--outline:hover,
+.responsive-button--outline:focus {
+    color: var(--ts-dark);
+    background: #fff;
+    border-color: #fff;
+}
