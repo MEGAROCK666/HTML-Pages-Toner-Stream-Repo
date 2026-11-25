@@ -1,0 +1,1707 @@
+.ts-serviz-page {
+    --ts-red: #cb1219;
+    --ts-red-dark: #a90f15;
+    --ts-dark: #202020;
+    --ts-text: #3a3a3a;
+    --ts-muted: #6f757b;
+    --ts-bg: #f3f3f3;
+    --ts-shadow: 0 10px 30px rgba(0, 0, 0, .07);
+    margin: 0;
+    padding: 42px 16px 64px;
+    color: var(--ts-text);
+    background: var(--ts-bg);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+    .ts-serviz-page, .ts-serviz-page *, .ts-serviz-page *::before, .ts-serviz-page *::after {
+        box-sizing: border-box;
+    }
+
+        .ts-serviz-page .ts-serviz-container {
+            width: 100%;
+            max-width: 1180px;
+            margin: 0 auto;
+        }
+
+        .ts-serviz-page .ts-serviz-hero {
+            position: relative;
+            display: grid;
+            grid-template-columns: minmax(0, 430px) minmax(0, 1fr);
+            align-items: center;
+            gap: 30px;
+            overflow: hidden;
+            padding: 46px 42px;
+            color: #fff;
+            background: linear-gradient(135deg, #1d1d1d 0%, #2f2f2f 72%, #3b1517 100%);
+            border-radius: 10px;
+            box-shadow: var(--ts-shadow);
+        }
+
+            .ts-serviz-page .ts-serviz-hero::after {
+                content: "";
+                position: absolute;
+                top: -80px;
+                right: -50px;
+                width: 250px;
+                height: 250px;
+                border: 32px solid rgba(203, 18, 25, .30);
+                border-radius: 50%;
+                pointer-events: none;
+            }
+
+            .ts-serviz-page .ts-serviz-hero > * {
+                position: relative;
+                z-index: 1;
+                min-width: 0;
+            }
+
+        .ts-serviz-page .ts-serviz-hero__visual img {
+            display: block;
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            object-fit: cover;
+            box-shadow: 0 18px 18px rgba(0,0,0,.25);
+        }
+
+        .ts-serviz-page .ts-serviz-eyebrow {
+            display: inline-block;
+            margin-bottom: 16px;
+            padding: 8px 13px;
+            color: var(--ts-red);
+            background: #fff;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: 700;
+            letter-spacing: .08em;
+            line-height: 1.4;
+            text-transform: uppercase;
+        }
+
+        .ts-serviz-page .ts-serviz-hero h2 {
+            margin: 0 0 10px;
+            color: #fff;
+            font-size: 32px;
+            font-weight: 400;
+            line-height: 1.2;
+        }
+
+        .ts-serviz-page .ts-serviz-hero__lead {
+            margin: 0 0 20px;
+            color: rgba(255,255,255,.92);
+            font-size: 18px;
+            line-height: 1.65;
+        }
+
+        .ts-serviz-page .ts-serviz-hero__benefits {
+            display: grid;
+            gap: 12px;
+            margin: 0 0 22px;
+        }
+
+        .ts-serviz-page .ts-serviz-hero__benefit {
+            display: grid;
+            grid-template-columns: 26px minmax(0,1fr);
+            gap: 12px;
+            align-items: start;
+            padding: 12px 14px;
+            background: rgba(255,255,255,.09);
+            border-left: 4px solid var(--ts-red);
+            border-radius: 6px;
+            line-height: 1.45;
+        }
+
+        .ts-serviz-page .ts-serviz-hero__check {
+            display: grid;
+            place-items: center;
+            width: 25px;
+            height: 25px;
+            border-radius: 50%;
+            color: #fff;
+            background: var(--ts-red);
+            font-weight: 800;
+        }
+
+        .ts-serviz-page .ts-serviz-hero__benefit strong {
+            display: block;
+            color: #fff;
+            font-size: 16px;
+        }
+
+        .ts-serviz-page .ts-serviz-hero__benefit span:last-child {
+            display: block;
+            color: rgba(255,255,255,.82);
+            font-size: 14px;
+        }
+
+        .ts-serviz-page .ts-serviz-hero__actions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+
+        .ts-serviz-page .ts-serviz-button {
+            display: inline-block;
+            max-width: 100%;
+            padding: 13px 26px;
+            color: #fff;
+            background: var(--ts-red);
+            border: 2px solid var(--ts-red);
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 700;
+            line-height: 1.4;
+            text-align: center;
+            text-decoration: none;
+            white-space: normal;
+            transition: background-color .25s ease, border-color .25s ease, transform .25s ease;
+        }
+
+            .ts-serviz-page .ts-serviz-button:hover, .ts-serviz-page .ts-serviz-button:focus {
+                color: #fff;
+                background: var(--ts-red-dark);
+                border-color: var(--ts-red-dark);
+                text-decoration: none;
+                transform: translateY(-1px);
+            }
+
+        .ts-serviz-page .ts-serviz-button--outline {
+            color: #fff;
+            background: transparent;
+            border-color: rgba(255,255,255,.8);
+        }
+
+            .ts-serviz-page .ts-serviz-button--outline:hover, .ts-serviz-page .ts-serviz-button--outline:focus {
+                color: var(--ts-dark);
+                background: #fff;
+                border-color: #fff;
+            }
+
+@media (max-width: 900px) {
+    .ts-serviz-page .ts-serviz-hero {
+        grid-template-columns: 1fr;
+        padding: 30px;
+        gap: 24px;
+    }
+
+    .ts-serviz-page .ts-serviz-hero__visual {
+        max-width: 540px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .ts-serviz-page .ts-serviz-hero h2 {
+        font-size: 28px;
+    }
+}
+
+@media (max-width: 576px) {
+    .ts-serviz-page {
+        padding: 18px 12px 36px;
+    }
+
+        .ts-serviz-page .ts-serviz-hero {
+            padding: 20px 18px 24px;
+            gap: 20px;
+        }
+
+            .ts-serviz-page .ts-serviz-hero h2 {
+                font-size: 24px;
+            }
+
+        .ts-serviz-page .ts-serviz-hero__lead {
+            font-size: 16px;
+        }
+
+        .ts-serviz-page .ts-serviz-hero__actions {
+            flex-direction: column;
+        }
+
+        .ts-serviz-page .ts-serviz-button {
+            width: 100%;
+        }
+}
+
+.ts-serviz-page .ts-serviz-hero {
+    display: grid !important;
+    grid-template-columns: minmax(0, 43%) minmax(0, 1fr) !important;
+    gap: 30px;
+    align-items: center;
+}
+
+.ts-serviz-page .ts-serviz-hero__visual {
+    grid-column: 1;
+    grid-row: 1;
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+    .ts-serviz-page .ts-serviz-hero__visual > img {
+        display: block !important;
+        position: static !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        height: auto !important;
+        max-height: 460px;
+        object-fit: cover;
+        object-position: center;
+        margin: 0 !important;
+    }
+
+.ts-serviz-page .ts-serviz-hero__content {
+    grid-column: 2;
+    grid-row: 1;
+    position: relative !important;
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+    transform: none !important;
+}
+
+.ts-serviz-page .ts-serviz-hero__actions a {
+    display: inline-block;
+    opacity: 1;
+    visibility: visible;
+}
+
+@media (max-width: 900px) {
+    .ts-serviz-page .ts-serviz-hero {
+        grid-template-columns: minmax(0, 1fr) !important;
+    }
+
+    .ts-serviz-page .ts-serviz-hero__visual {
+        grid-column: 1;
+        grid-row: 1;
+    }
+
+    .ts-serviz-page .ts-serviz-hero__content {
+        grid-column: 1;
+        grid-row: 2;
+    }
+
+    .ts-serviz-page .ts-serviz-hero__visual > img {
+        max-height: none;
+    }
+}
+
+/* ==========================================
+   3.2 PRICES - scoped styles
+   ========================================== */
+
+.ts-serviz-page .ts-serviz-card {
+    margin-top: 24px;
+    padding: 30px;
+    background: #fff;
+    border: 1px solid #e6e6e6;
+    border-radius: 10px;
+    box-shadow: var(--ts-shadow);
+    min-width: 0;
+}
+
+    .ts-serviz-page .ts-serviz-card > h2 {
+        margin: 0 0 16px;
+        padding-bottom: 12px;
+        color: var(--ts-dark);
+        border-bottom: 1px solid #e6e6e6;
+        font-size: 25px;
+        font-weight: 800;
+        line-height: 1.35;
+    }
+
+        .ts-serviz-page .ts-serviz-card > h2::after {
+            content: "";
+            display: block;
+            width: 54px;
+            height: 3px;
+            margin-top: 11px;
+            background: var(--ts-red);
+            border-radius: 99px;
+        }
+
+.ts-serviz-page .ts-serviz-section-lead {
+    margin: 0 0 22px;
+    font-size: 16px;
+    color: var(--ts-text);
+}
+
+/* Ценова таблица: заоблени външни ъгли, редуване и hover */
+
+.ts-serviz-page .ts-serviz-table-wrap {
+    width: 100%;
+    min-width: 0;
+    border: 1px solid #e1e1e1;
+    border-radius: 12px;
+    overflow: hidden;
+    isolation: isolate;
+}
+
+.ts-serviz-page .ts-serviz-price-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    table-layout: fixed;
+    margin: 0;
+    border: 0;
+    border-radius: inherit;
+}
+
+    .ts-serviz-page .ts-serviz-price-table th, .ts-serviz-page .ts-serviz-price-table td {
+        padding: 13px 14px;
+        border: 0;
+        border-right: 1px solid #e5e5e5;
+        border-bottom: 1px solid #e5e5e5;
+        text-align: left;
+        vertical-align: top;
+        overflow-wrap: anywhere;
+        background: transparent;
+        transition: background-color .18s ease;
+    }
+
+    .ts-serviz-page .ts-serviz-price-table tr > :last-child {
+        border-right: 0;
+    }
+
+    .ts-serviz-page .ts-serviz-price-table tbody tr:last-child > * {
+        border-bottom: 0;
+    }
+
+    .ts-serviz-page .ts-serviz-price-table thead th {
+        color: #fff;
+        background: #202020;
+        font-weight: 700;
+    }
+
+        .ts-serviz-page .ts-serviz-price-table thead th:first-child {
+            border-top-left-radius: 11px;
+        }
+
+        .ts-serviz-page .ts-serviz-price-table thead th:last-child {
+            border-top-right-radius: 11px;
+        }
+
+    .ts-serviz-page .ts-serviz-price-table tbody tr:last-child > :first-child {
+        border-bottom-left-radius: 11px;
+    }
+
+    .ts-serviz-page .ts-serviz-price-table tbody tr:last-child > :last-child {
+        border-bottom-right-radius: 11px;
+    }
+
+    .ts-serviz-page .ts-serviz-price-table thead th:nth-child(1) {
+        width: 49%;
+    }
+
+    .ts-serviz-page .ts-serviz-price-table thead th:nth-child(2) {
+        width: 19%;
+    }
+
+    .ts-serviz-page .ts-serviz-price-table thead th:nth-child(3) {
+        width: 32%;
+    }
+
+    .ts-serviz-page .ts-serviz-price-table tbody tr:nth-child(odd) > * {
+        background-color: #fff;
+    }
+
+    .ts-serviz-page .ts-serviz-price-table tbody tr:nth-child(even) > * {
+        background-color: #f5f5f5;
+    }
+
+    .ts-serviz-page .ts-serviz-price-table tbody tr:hover > * {
+        background-color: #ffe8e8;
+    }
+
+    .ts-serviz-page .ts-serviz-price-table tbody th {
+        color: #202020;
+        font-weight: 700;
+    }
+
+    .ts-serviz-page .ts-serviz-price-table td strong {
+        color: var(--ts-red-dark);
+        font-size: 17px;
+    }
+
+.ts-serviz-page .ts-serviz-unit {
+    display: block;
+    color: #555;
+    font-size: 13px;
+}
+
+.ts-serviz-page .ts-serviz-price-note {
+    margin-top: 22px;
+    padding: 20px 22px;
+    background: #fafafa;
+    border-left: 5px solid var(--ts-red);
+    border-radius: 7px;
+}
+
+    .ts-serviz-page .ts-serviz-price-note h3 {
+        margin: 0 0 10px;
+        color: #202020;
+        font-size: 19px;
+    }
+
+    .ts-serviz-page .ts-serviz-price-note p {
+        margin: 0 0 10px;
+    }
+
+    .ts-serviz-page .ts-serviz-price-note ul {
+        margin: 0;
+        padding-left: 22px;
+    }
+
+    .ts-serviz-page .ts-serviz-price-note li {
+        margin-bottom: 5px;
+    }
+
+.ts-serviz-page .ts-serviz-price-actions {
+    margin-top: 22px;
+}
+
+@media (max-width: 680px) {
+    .ts-serviz-page .ts-serviz-card {
+        padding: 20px 16px;
+    }
+
+    .ts-serviz-page .ts-serviz-table-wrap {
+        border: 0;
+        border-radius: 0;
+        overflow: visible;
+    }
+
+    .ts-serviz-page .ts-serviz-price-table, .ts-serviz-page .ts-serviz-price-table tbody, .ts-serviz-page .ts-serviz-price-table tr, .ts-serviz-page .ts-serviz-price-table th, .ts-serviz-page .ts-serviz-price-table td {
+        display: block;
+        width: 100%;
+    }
+
+        .ts-serviz-page .ts-serviz-price-table thead {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0,0,0,0);
+            white-space: nowrap;
+            border: 0;
+        }
+
+        .ts-serviz-page .ts-serviz-price-table tr {
+            margin-bottom: 13px;
+            border: 1px solid #e6e6e6;
+            border-top: 4px solid var(--ts-red);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .ts-serviz-page .ts-serviz-price-table th, .ts-serviz-page .ts-serviz-price-table td {
+            border: 0;
+            border-bottom: 1px solid #e6e6e6;
+            padding: 11px 13px;
+        }
+
+        .ts-serviz-page .ts-serviz-price-table tr > :last-child {
+            border-bottom: 0;
+        }
+
+        .ts-serviz-page .ts-serviz-price-table th::before, .ts-serviz-page .ts-serviz-price-table td::before {
+            content: attr(data-label);
+            display: block;
+            margin-bottom: 4px;
+            color: #6f757b;
+            font-size: 12px;
+            font-weight: 700;
+            text-transform: uppercase;
+        }
+
+    .ts-serviz-page .ts-serviz-unit {
+        display: inline;
+    }
+
+    .ts-serviz-page .ts-serviz-price-note {
+        padding: 16px;
+    }
+}
+
+/* 3.3 Район на обслужване и срокове за реакция */
+
+.ts-serviz-page .ts-serviz-coverage__grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 20px;
+}
+
+.ts-serviz-page .ts-serviz-coverage__item {
+    min-width: 0;
+    padding: 24px;
+    border: 1px solid #e5e5e5;
+    border-radius: 12px;
+    background: #fafafa;
+}
+
+.ts-serviz-page .ts-serviz-coverage__icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 46px;
+    height: 46px;
+    margin-bottom: 16px;
+    border-radius: 10px;
+    background: #fce9ea;
+    color: #bd111a;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.ts-serviz-page .ts-serviz-coverage__item h3 {
+    margin: 0 0 12px;
+    font-size: 20px;
+    line-height: 1.35;
+    color: #202020;
+}
+
+.ts-serviz-page .ts-serviz-coverage__item p {
+    margin: 0 0 12px;
+    line-height: 1.65;
+}
+
+    .ts-serviz-page .ts-serviz-coverage__item p:last-child {
+        margin-bottom: 0;
+    }
+
+@media (max-width: 760px) {
+    .ts-serviz-page .ts-serviz-coverage__grid {
+        grid-template-columns: 1fr;
+    }
+
+    .ts-serviz-page .ts-serviz-coverage__item {
+        padding: 20px;
+    }
+}
+
+.ts-serviz-page .ts-serviz-price-actions {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.ts-serviz-page .ts-serviz-coverage__icon {
+    overflow: hidden;
+}
+
+    .ts-serviz-page .ts-serviz-coverage__icon img {
+        display: block;
+        width: 28px;
+        height: 28px;
+        max-width: 100%;
+        object-fit: contain;
+    }
+
+    /* PNG иконки */
+
+    .ts-serviz-page .ts-serviz-coverage__icon img {
+        opacity: 1 !important;
+        visibility: visible !important;
+        filter: brightness(0) saturate(100%) invert(16%) sepia(96%) saturate(4792%) hue-rotate(350deg) brightness(88%) contrast(106%);
+    }
+
+/* Секция 3.3: деликатно повдигане и сянка на двете карти */
+
+.ts-serviz-page .ts-serviz-coverage__item {
+    box-shadow: 0 3px 12px rgba(26, 42, 51, 0.055);
+    transition: transform 220ms ease, box-shadow 220ms ease, border-color 220ms ease;
+}
+
+@media (hover: hover) and (pointer: fine) {
+    .ts-serviz-page .ts-serviz-coverage__item:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 12px 26px rgba(26, 42, 51, 0.13);
+        border-color: #d8dadd;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .ts-serviz-page .ts-serviz-coverage__item {
+        transition: none;
+    }
+}
+
+/* 3.4 Допълнителни услуги */
+
+.ts-serviz-page .ts-serviz-extra__grid {
+    display: grid;
+    grid-template-columns: repeat(2,minmax(0,1fr));
+    gap: 20px;
+}
+
+.ts-serviz-page .ts-serviz-extra__item {
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 24px;
+    border: 1px solid #e5e5e5;
+    border-radius: 12px;
+    background: #fafafa;
+    box-shadow: 0 3px 12px rgba(26,42,51,.055);
+    transition: transform 220ms ease,box-shadow 220ms ease,border-color 220ms ease;
+}
+
+.ts-serviz-page .ts-serviz-extra__symbol {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 46px;
+    height: 46px;
+    margin-bottom: 16px;
+    border-radius: 10px;
+    background: #fce9ea;
+    color: #cb1219;
+    font-size: 15px;
+    font-weight: 800;
+}
+
+.ts-serviz-page .ts-serviz-extra__item :is(h3,h4) {
+    margin: 0 0 12px;
+    font-size: 20px;
+    line-height: 1.35;
+    color: #202020;
+}
+
+.ts-serviz-page .ts-serviz-extra__item p {
+    margin: 0 0 20px;
+    line-height: 1.65;
+}
+
+.ts-serviz-page .ts-serviz-extra__item a {
+    margin-top: auto;
+    color: #bd111a;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+    .ts-serviz-page .ts-serviz-extra__item a:hover {
+        text-decoration: underline;
+    }
+
+    .ts-serviz-page .ts-serviz-extra__item a:focus-visible {
+        outline: 2px solid #cb1219;
+        outline-offset: 4px;
+    }
+
+@media (hover:hover) and (pointer:fine) {
+    .ts-serviz-page .ts-serviz-trust .ts-serviz-extra__item:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 12px 26px rgba(26,42,51,.13);
+        border-color: #d8dadd;
+    }
+}
+
+@media (max-width:760px) {
+    .ts-serviz-page .ts-serviz-extra__grid {
+        grid-template-columns: 1fr;
+    }
+
+    .ts-serviz-page .ts-serviz-extra__item {
+        padding: 20px;
+    }
+}
+
+@media (prefers-reduced-motion:reduce) {
+    .ts-serviz-page .ts-serviz-extra__item {
+        transition: none;
+    }
+}
+
+/* 3.4: PNG иконки вместо номера, в червено */
+
+.ts-serviz-page .ts-serviz-extra__symbol {
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+    .ts-serviz-page .ts-serviz-extra__symbol img {
+        display: block;
+        width: 28px;
+        height: 28px;
+        max-width: 100%;
+        object-fit: contain;
+        filter: brightness(0) saturate(100%) invert(16%) sepia(96%) saturate(4792%) hue-rotate(350deg) brightness(88%) contrast(106%);
+    }
+
+/* 3.5 Гаранция и доверие */
+
+.ts-serviz-page .ts-serviz-trust__term {
+    color: #cb1219;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 1.2;
+    margin: 0 0 12px;
+}
+
+.ts-serviz-page .ts-serviz-trust .ts-serviz-extra__item p:last-child {
+    margin-bottom: 0;
+}
+
+.ts-serviz-page .ts-serviz-trust__reviews {
+    margin-top: 20px;
+    padding: 24px;
+    border: 1px solid #e5e5e5;
+    border-radius: 12px;
+    background: #fafafa;
+}
+
+    .ts-serviz-page .ts-serviz-trust__reviews h3 {
+        margin: 0 0 12px;
+        font-size: 20px;
+        color: #202020;
+    }
+
+.ts-serviz-page .ts-serviz-trust__rating {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 14px;
+    margin-bottom: 4px;
+}
+
+    .ts-serviz-page .ts-serviz-trust__rating strong {
+        font-size: 30px;
+        line-height: 1.3;
+        color: #202020;
+    }
+
+.ts-serviz-page .ts-serviz-trust__stars {
+    font-size: 28px;
+    line-height: 1.3;
+    letter-spacing: 2px;
+    display: inline-block;
+    color: #fbbc04;
+    background: linear-gradient(90deg,#fbbc04 96%,#d9d9d9 96%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.ts-serviz-page .ts-serviz-trust__count {
+    color: #66717d;
+    font-size: 14px;
+    margin: 0 0 16px;
+}
+
+.ts-serviz-page .ts-serviz-trust__actions {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 16px;
+}
+
+    .ts-serviz-page .ts-serviz-trust__actions a {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 10px 16px;
+        border: 1px solid #cb1219;
+        border-radius: 8px;
+        color: #bd111a;
+        font-weight: 700;
+        text-decoration: none;
+    }
+
+        .ts-serviz-page .ts-serviz-trust__actions a:hover {
+            background: #fce9ea;
+        }
+
+        .ts-serviz-page .ts-serviz-trust__actions a:focus-visible {
+            outline: 2px solid #cb1219;
+            outline-offset: 4px;
+        }
+
+@media(max-width:760px) {
+    .ts-serviz-page .ts-serviz-trust__reviews {
+        padding: 20px;
+    }
+}
+
+.ts-serviz-page .ts-serviz-trust__review-header {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 16px;
+}
+
+.ts-serviz-page .ts-serviz-trust__google-logo {
+    display: block;
+    width: 48px;
+    height: 48px;
+    flex: 0 0 48px;
+    object-fit: contain;
+    background: transparent;
+    filter: none;
+}
+
+.ts-serviz-page .ts-serviz-trust__review-info {
+    min-width: 0;
+    flex: 1;
+}
+
+    .ts-serviz-page .ts-serviz-trust__review-info .ts-serviz-trust__count {
+        margin-bottom: 0;
+    }
+
+/* 3.6 Ремонт или подмяна */
+
+.ts-serviz-page .ts-serviz-decision__table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 1px solid #e5e5e5;
+    border-radius: 12px;
+    overflow: hidden;
+    margin: 0 0 20px;
+}
+
+    .ts-serviz-page .ts-serviz-decision__table th, .ts-serviz-page .ts-serviz-decision__table td {
+        padding: 16px;
+        text-align: left;
+        vertical-align: top;
+        overflow-wrap: anywhere;
+        border-bottom: 1px solid #e5e5e5;
+        border-right: 1px solid #e5e5e5;
+        line-height: 1.55;
+    }
+
+    .ts-serviz-page .ts-serviz-decision__table thead th {
+        background: #f1f2f3;
+        color: #202020;
+    }
+
+    .ts-serviz-page .ts-serviz-decision__table th:first-child {
+        width: 26%;
+    }
+
+    .ts-serviz-page .ts-serviz-decision__table tbody th {
+        background: #fafafa;
+    }
+
+    .ts-serviz-page .ts-serviz-decision__table tr > :last-child {
+        border-right: 0;
+    }
+
+    .ts-serviz-page .ts-serviz-decision__table tbody tr:last-child > * {
+        border-bottom: 0;
+    }
+
+.ts-serviz-page .ts-serviz-decision__heading {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+    .ts-serviz-page .ts-serviz-decision__heading img {
+        width: 24px;
+        height: 24px;
+        object-fit: contain;
+        filter: brightness(0) saturate(100%) invert(16%) sepia(96%) saturate(4792%) hue-rotate(350deg) brightness(88%) contrast(106%);
+    }
+
+.ts-serviz-page .ts-serviz-decision__note {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+    background: #fafafa;
+    border: 1px solid #e5e5e5;
+    border-radius: 12px;
+    padding: 20px;
+    margin: 0 0 24px;
+}
+
+    .ts-serviz-page .ts-serviz-decision__note h3 {
+        margin: 0 0 8px;
+        font-size: 20px;
+    }
+
+    .ts-serviz-page .ts-serviz-decision__note p {
+        margin: 0;
+        line-height: 1.65;
+    }
+
+.ts-serviz-page .ts-serviz-decision__subtitle {
+    margin: 0 0 16px;
+    font-size: 20px;
+}
+
+@media(max-width:760px) {
+    .ts-serviz-page .ts-serviz-decision__table th, .ts-serviz-page .ts-serviz-decision__table td {
+        padding: 9px 7px;
+        font-size: 13px;
+    }
+
+        .ts-serviz-page .ts-serviz-decision__table th:first-child {
+            width: 27%;
+        }
+
+    .ts-serviz-page .ts-serviz-decision__note {
+        padding: 16px;
+        gap: 12px;
+    }
+}
+
+/* 3.7 Симптоми и кога е нужен техник */
+
+.ts-serviz-page .ts-serviz-symptoms__table th:first-child {
+    width: 20%;
+}
+
+.ts-serviz-page .ts-serviz-symptoms__table thead th:nth-child(2), .ts-serviz-page .ts-serviz-symptoms__table thead th:nth-child(3) {
+    width: 30%;
+}
+
+.ts-serviz-page .ts-serviz-symptoms__table tbody tr:nth-child(odd) > * {
+    background: #fafafa;
+}
+
+.ts-serviz-page .ts-serviz-symptoms__table tbody tr:nth-child(even) > * {
+    background: #fff;
+}
+
+.ts-serviz-page .ts-serviz-symptoms__table a {
+    color: #bd111a;
+    font-weight: 700;
+    text-decoration: none;
+    overflow-wrap: anywhere;
+}
+
+    .ts-serviz-page .ts-serviz-symptoms__table a:hover {
+        text-decoration: underline;
+    }
+
+    .ts-serviz-page .ts-serviz-symptoms__table a:focus-visible {
+        outline: 2px solid #cb1219;
+        outline-offset: 3px;
+    }
+
+.ts-serviz-page .ts-serviz-symptoms .ts-serviz-decision__note {
+    margin-bottom: 0;
+}
+
+@media(max-width:760px) {
+    .ts-serviz-page .ts-serviz-symptoms__table th:first-child {
+        width: 22%;
+    }
+
+    .ts-serviz-page .ts-serviz-symptoms__table thead th:nth-child(2), .ts-serviz-page .ts-serviz-symptoms__table thead th:nth-child(3) {
+        width: 28%;
+    }
+
+    .ts-serviz-page .ts-serviz-symptoms__table th, .ts-serviz-page .ts-serviz-symptoms__table td {
+        padding: 9px 5px;
+        font-size: 12px;
+        overflow-wrap: anywhere;
+    }
+}
+
+/* 3.8 Марки и устройства */
+
+.ts-serviz-page .ts-serviz-brands > h2 {
+    margin: 0 0 16px;
+    padding-bottom: 12px;
+    color: var(--ts-dark);
+    border-bottom: 1px solid #e6e6e6;
+    font-size: 25px;
+    font-weight: 800;
+    line-height: 1.35;
+}
+
+    .ts-serviz-page .ts-serviz-brands > h2::after {
+        content: "";
+        display: block;
+        width: 54px;
+        height: 3px;
+        margin-top: 11px;
+        background: var(--ts-red);
+        border-radius: 99px;
+    }
+
+.ts-serviz-page .service-brands__grid {
+    display: grid;
+    grid-template-columns: repeat(4,minmax(0,1fr));
+    gap: 14px;
+    margin: 26px 0;
+}
+
+.ts-serviz-page .service-brand {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    min-width: 0;
+    min-height: 125px;
+    padding: 18px 12px;
+    background: #fafafa;
+    border: 1px solid #e5e5e5;
+    border-radius: 8px;
+    text-align: center;
+    transition: transform .25s ease,box-shadow .25s ease,border-color .25s ease,background-color .25s ease;
+}
+
+    .ts-serviz-page .service-brand img {
+        display: block;
+        width: 100%;
+        max-width: 105px;
+        height: 48px;
+        object-fit: contain;
+        filter: none;
+    }
+
+.ts-serviz-page .ts-serviz-brands .ts-serviz-decision__note {
+    margin-bottom: 0;
+}
+
+
+
+@media(max-width:1000px) {
+    .ts-serviz-page .service-brands__grid {
+        grid-template-columns: repeat(3,minmax(0,1fr));
+    }
+}
+
+@media(max-width:760px) {
+    .ts-serviz-page .service-brands__grid {
+        grid-template-columns: repeat(2,minmax(0,1fr));
+        gap: 10px;
+    }
+
+    .ts-serviz-page .service-brand {
+        padding: 12px 8px;
+        min-height: 105px;
+    }
+
+    .ts-serviz-page .ts-serviz-brands > h2 {
+        font-size: 22px;
+    }
+}
+
+@media(prefers-reduced-motion:reduce) {
+    .ts-serviz-page .service-brand {
+        transition: none;
+    }
+
+        .ts-serviz-page .service-brand:hover {
+            transform: none;
+        }
+}
+
+/* 3.9 Превантивна поддръжка */
+
+.ts-serviz-page .ts-serviz-maintenance .ts-serviz-extra__item p:last-child {
+    margin-bottom: 0;
+}
+
+.ts-serviz-page .ts-serviz-maintenance__parts {
+    margin-top: 20px;
+    align-items: center;
+}
+
+.ts-serviz-page .ts-serviz-maintenance .ts-serviz-decision__note .ts-serviz-extra__symbol, .ts-serviz-page .ts-serviz-maintenance__rental .ts-serviz-extra__symbol {
+    margin-bottom: 0;
+}
+
+.ts-serviz-page .ts-serviz-maintenance__prices {
+    display: grid;
+    grid-template-columns: repeat(3,minmax(0,1fr));
+    gap: 16px;
+}
+
+.ts-serviz-page .ts-serviz-maintenance__price {
+    color: var(--ts-red);
+    font-size: clamp(19px,2vw,25px);
+    line-height: 1.35;
+    margin: 0 0 12px;
+}
+
+.ts-serviz-page .ts-serviz-maintenance__caption {
+    font-size: 14px;
+    color: #66717d;
+    margin: 12px 0 24px;
+}
+
+.ts-serviz-page .ts-serviz-maintenance__contract {
+    border: 1px solid #e5e5e5;
+    border-radius: 12px;
+    padding: 24px;
+    background: #fff;
+}
+
+    .ts-serviz-page .ts-serviz-maintenance__contract :is(h3,h4) {
+        margin: 0 0 12px;
+        font-size: 20px;
+        line-height: 1.35;
+    }
+
+    .ts-serviz-page .ts-serviz-maintenance__contract p {
+        margin: 0 0 14px;
+        line-height: 1.65;
+    }
+
+.ts-serviz-page .ts-serviz-maintenance__rental {
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+    padding-top: 20px;
+    margin-top: 20px;
+    border-top: 1px solid #e5e5e5;
+}
+
+    .ts-serviz-page .ts-serviz-maintenance__rental h4 {
+        margin-bottom: 8px;
+    }
+
+    .ts-serviz-page .ts-serviz-maintenance__rental p {
+        margin-bottom: 8px;
+    }
+
+    .ts-serviz-page .ts-serviz-maintenance__rental a {
+        color: #bd111a;
+        font-weight: 700;
+        text-decoration: none;
+    }
+
+        .ts-serviz-page .ts-serviz-maintenance__rental a:hover {
+            text-decoration: underline;
+        }
+
+        .ts-serviz-page .ts-serviz-maintenance__rental a:focus-visible {
+            outline: 2px solid #cb1219;
+            outline-offset: 3px;
+        }
+
+@media(max-width:760px) {
+    .ts-serviz-page .ts-serviz-maintenance__prices {
+        grid-template-columns: 1fr;
+    }
+
+    .ts-serviz-page .ts-serviz-maintenance__contract {
+        padding: 20px;
+    }
+}
+
+/* 3.10 Как протича ремонтът */
+
+.ts-serviz-page .ts-serviz-process__grid {
+    display: grid;
+    grid-template-columns: repeat(4,minmax(0,1fr));
+    gap: 16px;
+    list-style: none;
+    padding: 0;
+    margin: 42px 0 0;
+}
+
+.ts-serviz-page .ts-serviz-process__step {
+    position: relative;
+    min-width: 0;
+    margin: 0;
+    padding: 38px 16px 22px;
+    border: 1px solid #e5e5e5;
+    border-radius: 12px;
+    background: #fff;
+    text-align: center;
+    transition: transform .22s ease,box-shadow .22s ease,border-color .22s ease;
+}
+
+    .ts-serviz-page .ts-serviz-process__step::before {
+        content: none;
+    }
+
+.ts-serviz-page .ts-serviz-process__number {
+    position: absolute;
+    z-index: 1;
+    top: -23px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    background: #cb1219;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.ts-serviz-page .ts-serviz-process__step:not(:last-child)::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: calc(50% + 25px);
+    width: calc(100% - 34px);
+    border-top: 2px dashed #cb1219;
+    opacity: .55;
+    pointer-events: none;
+}
+
+.ts-serviz-page .ts-serviz-process__step h3 {
+    font-size: 18px;
+    line-height: 1.35;
+    margin: 0 0 12px;
+    overflow-wrap: anywhere;
+}
+
+.ts-serviz-page .ts-serviz-process__step p {
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+
+
+@media(max-width:1000px) {
+    .ts-serviz-page .ts-serviz-process__grid {
+        grid-template-columns: repeat(2,minmax(0,1fr));
+        row-gap: 42px;
+    }
+
+    .ts-serviz-page .ts-serviz-process__step:nth-child(2)::after {
+        content: none;
+    }
+}
+
+@media(max-width:760px) {
+    .ts-serviz-page .ts-serviz-process__grid {
+        grid-template-columns: 1fr;
+    }
+
+    .ts-serviz-page .ts-serviz-process__step::after {
+        display: none;
+    }
+}
+
+@media(prefers-reduced-motion:reduce) {
+    .ts-serviz-page .ts-serviz-process__step {
+        transition: none;
+    }
+
+        .ts-serviz-page .ts-serviz-process__step:hover {
+            transform: none;
+        }
+}
+
+/* 3.11 Често задавани въпроси */
+
+.ts-serviz-page .ts-serviz-faq__list {
+    display: grid;
+    gap: 12px;
+}
+
+.ts-serviz-page .ts-serviz-faq__item {
+    border: 1px solid #e5e5e5;
+    border-radius: 12px;
+    background: #fff;
+}
+
+    .ts-serviz-page .ts-serviz-faq__item summary {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 16px;
+        padding: 18px 20px;
+        cursor: pointer;
+        list-style: none;
+        border-radius: 12px;
+    }
+
+        .ts-serviz-page .ts-serviz-faq__item summary::-webkit-details-marker {
+            display: none;
+        }
+
+        .ts-serviz-page .ts-serviz-faq__item summary::after {
+            content: "+";
+            flex: 0 0 24px;
+            text-align: center;
+            color: #cb1219;
+            font-size: 25px;
+            line-height: 1;
+        }
+
+    .ts-serviz-page .ts-serviz-faq__item[open] summary::after {
+        content: "−";
+    }
+
+    .ts-serviz-page .ts-serviz-faq__item summary h3 {
+        margin: 0;
+        padding: 0;
+        font-size: 18px;
+        line-height: 1.45;
+        overflow-wrap: anywhere;
+    }
+
+    .ts-serviz-page .ts-serviz-faq__item[open] summary h3 {
+        color: #cb1219;
+    }
+
+    .ts-serviz-page .ts-serviz-faq__item summary:hover {
+        background: #fafafa;
+    }
+
+    .ts-serviz-page .ts-serviz-faq__item summary:focus-visible {
+        outline: 2px solid #cb1219;
+        outline-offset: 3px;
+    }
+
+.ts-serviz-page .ts-serviz-faq__answer {
+    padding: 0 20px 18px;
+}
+
+    .ts-serviz-page .ts-serviz-faq__answer p {
+        margin: 0;
+        line-height: 1.65;
+    }
+
+@media(max-width:760px) {
+    .ts-serviz-page .ts-serviz-faq__item summary {
+        padding: 14px;
+        gap: 10px;
+    }
+
+        .ts-serviz-page .ts-serviz-faq__item summary h3 {
+            font-size: 16px;
+        }
+
+    .ts-serviz-page .ts-serviz-faq__answer {
+        padding: 0 14px 14px;
+    }
+}
+
+/* Финален CTA */
+
+.ts-serviz-page .ts-serviz-final {
+    margin-top: 24px;
+    padding: 40px 42px;
+    border-radius: 12px;
+    background: linear-gradient(135deg,#4a4d53,#36383d);
+    color: #fff;
+    box-shadow: var(--ts-shadow);
+}
+
+    .ts-serviz-page .ts-serviz-final h2 {
+        margin: 0 0 16px;
+        color: #fff;
+        font-size: clamp(24px,3vw,32px);
+        line-height: 1.3;
+    }
+
+    .ts-serviz-page .ts-serviz-final p {
+        margin: 0 0 12px;
+        color: #e1e3e6;
+        max-width: 850px;
+    }
+
+.ts-serviz-page .ts-serviz-final__layout {
+    display: grid;
+    grid-template-columns: minmax(0,1fr) minmax(220px,30%);
+    align-items: center;
+    gap: 36px;
+}
+
+.ts-serviz-page .ts-serviz-final__content {
+    min-width: 0;
+}
+
+    .ts-serviz-page .ts-serviz-final__content p:last-child {
+        margin-bottom: 0;
+    }
+
+.ts-serviz-page .ts-serviz-final__actions {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 12px;
+    margin: 0;
+}
+
+    .ts-serviz-page .ts-serviz-final__actions a {
+        width: 100%;
+        box-sizing: border-box;
+        justify-content: center;
+        text-align: center;
+    }
+
+.ts-serviz-page .ts-serviz-final__guarantee {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border-top: 1px solid rgba(255,255,255,.25);
+    margin-top: 24px;
+    padding-top: 18px;
+    color: #e1e3e6;
+    font-size: 14px;
+}
+
+    .ts-serviz-page .ts-serviz-final__guarantee span {
+        color: #fff;
+        font-weight: 700;
+        font-size: 18px;
+    }
+
+.ts-serviz-page .ts-serviz-final a:focus-visible {
+    outline: 2px solid #fff;
+    outline-offset: 4px;
+}
+
+@media(max-width:760px) {
+    .ts-serviz-page .ts-serviz-final {
+        padding: 24px 20px;
+    }
+
+    .ts-serviz-page .ts-serviz-final__layout {
+        grid-template-columns: 1fr;
+        gap: 24px;
+    }
+
+    .ts-serviz-page .ts-serviz-final__actions a {
+        text-align: center;
+    }
+}
+
+/* Mobile comparison cards */
+@media (max-width: 760px) {
+    .ts-serviz-page .ts-serviz-decision__table {
+        display: block;
+        border: 0;
+        border-radius: 0;
+        overflow: visible;
+    }
+
+        .ts-serviz-page .ts-serviz-decision__table thead {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            overflow: hidden;
+            clip-path: inset(50%);
+            white-space: nowrap;
+        }
+
+        .ts-serviz-page .ts-serviz-decision__table tbody {
+            display: block;
+        }
+
+            .ts-serviz-page .ts-serviz-decision__table tbody tr {
+                display: block;
+                margin-bottom: 14px;
+                border: 1px solid #e5e5e5;
+                border-top: 4px solid var(--ts-red);
+                border-radius: 8px;
+                overflow: hidden;
+            }
+
+                .ts-serviz-page .ts-serviz-decision__table tbody tr > * {
+                    display: block;
+                    width: 100%;
+                    padding: 11px 13px;
+                    font-size: 15px;
+                    border: 0;
+                    border-bottom: 1px solid #e5e5e5;
+                }
+
+                .ts-serviz-page .ts-serviz-decision__table tbody tr > :first-child {
+                    width: 100%;
+                }
+
+                .ts-serviz-page .ts-serviz-decision__table tbody tr > :last-child {
+                    border-bottom: 0;
+                }
+
+                .ts-serviz-page .ts-serviz-decision__table tbody tr > *::before {
+                    content: attr(data-label);
+                    display: block;
+                    font-size: 12px;
+                    font-weight: 700;
+                    color: #555;
+                    text-transform: uppercase;
+                    margin-bottom: 4px;
+                }
+}
+
+@media (max-width: 576px) {
+    .ts-serviz-page .ts-serviz-hero {
+        padding: 18px 16px;
+        gap: 14px;
+    }
+
+    .ts-serviz-page .ts-serviz-hero__visual > img {
+        max-height: 150px;
+        object-fit: cover;
+    }
+
+    .ts-serviz-page .ts-serviz-hero h2 {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+
+    .ts-serviz-page .ts-serviz-eyebrow {
+        margin-bottom: 8px;
+        padding: 5px 9px;
+    }
+
+    .ts-serviz-page .ts-serviz-hero__lead {
+        font-size: 15px;
+        line-height: 1.45;
+        margin-bottom: 12px;
+    }
+
+    .ts-serviz-page .ts-serviz-hero__benefits {
+        gap: 7px;
+        margin-bottom: 12px;
+    }
+
+    .ts-serviz-page .ts-serviz-hero__benefit {
+        padding: 8px 10px;
+        gap: 8px;
+    }
+
+    .ts-serviz-page .ts-serviz-hero__actions {
+        gap: 8px;
+    }
+
+        .ts-serviz-page .ts-serviz-hero__actions a {
+            padding: 10px 14px;
+        }
+}
+
+.ts-serviz-page .ts-serviz-button:focus-visible {
+    outline: 2px solid currentColor;
+    outline-offset: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .ts-serviz-page .ts-serviz-button, .ts-serviz-page .ts-serviz-coverage__item, .ts-serviz-page .ts-serviz-extra__item {
+        transition: none;
+    }
+
+        .ts-serviz-page .ts-serviz-button:hover, .ts-serviz-page .ts-serviz-coverage__item:hover, .ts-serviz-page .ts-serviz-extra__item:hover {
+            transform: none;
+        }
+}
+
+
+/* Hover effects — section-specific, CSS only */
+/* Link motion: move the complete link, not just its arrow. */
+.ts-serviz-page :is(.ts-serviz-extra, .ts-serviz-decision) .ts-serviz-extra__item a,
+.ts-serviz-page .ts-serviz-maintenance__rental a {
+    display: inline-block;
+    max-width: calc(100% - 10px);
+    overflow-wrap: anywhere;
+    transition: transform 300ms ease;
+}
+/* Shine sweep: original logo colors remain unchanged. */
+.ts-serviz-page .service-brand {
+    position: relative;
+    overflow: hidden;
+}
+
+    .ts-serviz-page .service-brand::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(115deg, transparent 30%, rgba(255,255,255,.85) 49%, transparent 68%);
+        transform: translateX(-110%);
+        pointer-events: none;
+    }
+/* Icon animation: only the icon tile moves. */
+.ts-serviz-page .ts-serviz-maintenance .ts-serviz-extra__grid .ts-serviz-extra__symbol {
+    transition: transform 300ms ease, background-color 300ms ease;
+}
+
+    .ts-serviz-page .ts-serviz-maintenance .ts-serviz-extra__grid .ts-serviz-extra__symbol img {
+        transition: filter 300ms ease;
+    }
+/* Animated underline: no layout shift. */
+.ts-serviz-page .ts-serviz-maintenance__prices .ts-serviz-extra__item {
+    position: relative;
+    overflow: hidden;
+}
+
+    .ts-serviz-page .ts-serviz-maintenance__prices .ts-serviz-extra__item::after {
+        content: "";
+        position: absolute;
+        inset: auto 0 0;
+        height: 3px;
+        background: var(--ts-red);
+        transform: scaleX(0);
+        transform-origin: left;
+        transition: transform 350ms ease;
+        pointer-events: none;
+    }
+/* Tech corners: use one pseudo-element, preserving the dashed connector. */
+.ts-serviz-page .ts-serviz-process__step::before {
+    content: "";
+    position: absolute;
+    inset: 9px;
+    background: linear-gradient(var(--ts-red),var(--ts-red)) left top / 0 2px, linear-gradient(var(--ts-red),var(--ts-red)) left top / 2px 0, linear-gradient(var(--ts-red),var(--ts-red)) right bottom / 0 2px, linear-gradient(var(--ts-red),var(--ts-red)) right bottom / 2px 0;
+    background-repeat: no-repeat;
+    transition: background-size 350ms ease;
+    pointer-events: none;
+}
+
+@media (hover: hover) and (pointer: fine) {
+    .ts-serviz-page :is(.ts-serviz-extra, .ts-serviz-decision) .ts-serviz-extra__item:hover a,
+    .ts-serviz-page .ts-serviz-maintenance__rental:hover a {
+        transform: translateX(10px);
+    }
+
+    .ts-serviz-page .service-brand:hover::after {
+        transform: translateX(110%);
+        transition: transform 650ms ease;
+    }
+
+    .ts-serviz-page .ts-serviz-maintenance .ts-serviz-extra__grid .ts-serviz-extra__item:hover .ts-serviz-extra__symbol {
+        transform: scale(1.12) rotate(-8deg);
+        background: var(--ts-red);
+    }
+
+        .ts-serviz-page .ts-serviz-maintenance .ts-serviz-extra__grid .ts-serviz-extra__item:hover .ts-serviz-extra__symbol img {
+            filter: brightness(0) invert(1);
+        }
+
+    .ts-serviz-page .ts-serviz-maintenance__prices .ts-serviz-extra__item:hover::after {
+        transform: scaleX(1);
+    }
+
+    .ts-serviz-page .ts-serviz-process__step:hover::before {
+        background-size: 23px 2px, 2px 23px, 23px 2px, 2px 23px;
+    }
+}
+
+.ts-serviz-page :is(.ts-serviz-extra, .ts-serviz-decision) .ts-serviz-extra__item:focus-within a,
+.ts-serviz-page .ts-serviz-maintenance__rental:focus-within a {
+    transform: translateX(10px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .ts-serviz-page .ts-serviz-trust .ts-serviz-extra__item:hover,
+    .ts-serviz-page :is(.ts-serviz-extra, .ts-serviz-decision) .ts-serviz-extra__item a,
+    .ts-serviz-page .ts-serviz-maintenance__rental a,
+    .ts-serviz-page .ts-serviz-maintenance .ts-serviz-extra__grid .ts-serviz-extra__symbol {
+        transform: none !important;
+        transition: none;
+    }
+
+    .ts-serviz-page .service-brand::after {
+        display: none;
+    }
+
+    .ts-serviz-page .ts-serviz-maintenance .ts-serviz-extra__grid .ts-serviz-extra__symbol img,
+    .ts-serviz-page .ts-serviz-maintenance__prices .ts-serviz-extra__item::after,
+    .ts-serviz-page .ts-serviz-process__step::before {
+        transition: none;
+    }
+}

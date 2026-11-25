@@ -131,7 +131,7 @@
     padding: 12px 26px;
     border: 1px solid var(--ts-primary);
     border-radius: 7px;
-    background: var(--ts-primary);
+    background: #e3001E;
     box-shadow: 0 7px 18px rgba(63, 155, 70, 0.22);
     color: var(--ts-white);
     cursor: pointer;
@@ -145,7 +145,7 @@
 }
 
 .ts-content .responsive-button:hover {
-    background: #e3001E;
+    background: var(--ts-primary);
     border-color: var(--ts-primary-dark);
     box-shadow: 0 9px 22px rgba(45, 117, 51, 0.26);
     color: var(--ts-white);

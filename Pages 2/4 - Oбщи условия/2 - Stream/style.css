@@ -364,3 +364,31 @@ strong {
         text-decoration: none;
     }
 }
+
+/* Подраздели 7.1 – 7.4 */
+
+.terms-card .card-body h3 {
+    margin: 28px 0 14px;
+    padding: 6px 0 6px 14px;
+    color: var(--ts-dark);
+    background: transparent;
+    border: 0;
+    border-left: 3px solid var(--ts-red);
+    border-radius: 0;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 1.5;
+}
+
+.terms-card .card-body h3:first-child {
+    margin-top: 0;
+}
+
+@media (max-width: 767.98px) {
+    .terms-card .card-body h3 {
+        margin: 24px 0 12px;
+        padding-left: 12px;
+        font-size: 16px;
+        line-height: 1.45;
+    }
+}
